@@ -1,0 +1,21 @@
+EmployeeID,FirstName,LastName,Role,Shift,Email,Phone,Salary,JoinDate
+EMP001,Julie,Jackson,Cashier,Morning,claytonnichole@example.org,2496532322,29810.91,2023-07-10
+EMP002,Bryan,Miller,Pharmacy Technician,Morning,sweaver@example.com,465.460.3065,81301.5,2025-12-07
+EMP003,Kayla,Williams,Pharmacist,Evening,mcarter@example.org,001-498-218-304,80139.02,2026-06-09
+EMP004,Donna,Myers,Sales Associate,Morning,yjones@example.com,001-752-594-768,39442.11,2021-01-21
+EMP005,Kevin,Riley,Store Manager,Night,robertjackson@example.net,325-484-7256x92,69852.31,2022-07-05
+EMP006,Elizabeth,Chavez,Cashier,Night,andrewdunn@example.com,+1-436-248-3873,70715.66,2022-12-12
+EMP007,Michael,Orozco,Cashier,Night,rbutler@example.com,+1-886-896-0900,27735.23,2025-10-02
+EMP008,Jennifer,Boyd,Store Manager,Morning,tcarroll@example.net,3809194608,78077.57,2025-10-13
+EMP009,Gregory,Johnson,Sales Associate,Afternoon,ubrandt@example.net,573.891.2795x14,70633.58,2025-12-01
+EMP010,Lisa,Krause,Pharmacy Technician,Morning,sheilareese@example.org,619-505-0604,68305.51,2023-03-25
+EMP011,Maria,Lewis,Pharmacy Technician,Morning,wanda95@example.org,+1-376-385-4898,59910.07,2024-03-25
+EMP012,Jessica,Shannon,Pharmacy Technician,Night,bruce00@example.org,+1-771-974-4285,74288.54,2025-03-26
+EMP013,Steve,Bates,Pharmacy Technician,Evening,kholland@example.com,2662027235,80275.87,2020-08-27
+EMP014,Colleen,Jackson,Store Manager,Morning,bobby98@example.net,(280)700-5873x4,29622.48,2025-03-19
+EMP015,Alison,Coleman,Sales Associate,Evening,ryanvaughn@example.org,851.259.5176,38407.41,2023-06-15
+EMP016,Danielle,Graham,Cashier,Afternoon,shafferjeremy@example.org,001-575-685-700,67370.13,2025-01-13
+EMP017,Samuel,Carroll,Pharmacist,Night,jpearson@example.org,+1-231-702-1680,80357.44,2023-12-04
+EMP018,Regina,King,Cashier,Night,qwilliams@example.org,922.749.5791,56355.17,2026-05-20
+EMP019,Andrew,Quinn,Pharmacist,Night,daniel77@example.com,969-930-8672x17,33256.11,2024-08-22
+EMP020,Crystal,Crawford,Sales Associate,Morning,ublack@example.org,(681)961-6672,67903.53,2021-12-23

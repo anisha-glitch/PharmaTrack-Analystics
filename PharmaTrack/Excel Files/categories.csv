@@ -1,0 +1,13 @@
+CategoryID,CategoryName,Description
+CAT001,Topical,"Creams, Gels, Ointments, Lotions"
+CAT002,Oral Solid,"Tablets, Capsules, Sachets"
+CAT003,Oral Liquid,"Syrups, Suspensions, Solutions"
+CAT004,Respiratory,Inhalers and Sprays
+CAT005,Personal Care,"Shampoos, Soaps, Toothpaste"
+CAT006,Nasal,Nasal Sprays and Drops
+CAT007,Injectable,"Injections, Ampoules, Vials"
+CAT008,Dermatology,Skin and Dermatology Products
+CAT009,Suppository,Rectal and Vaginal Suppositories
+CAT010,Ophthalmic,Eye Drops and Eye Ointments
+CAT011,Transdermal,Skin Patches
+CAT012,Ear,Ear Drops

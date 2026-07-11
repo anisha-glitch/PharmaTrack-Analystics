@@ -1,0 +1,16 @@
+SupplierID,SupplierName,Country,ContactName,Email,Phone,LeadTimeDays,Rating,ContractSince
+SUP001,Hill LLC,UAE,Kelly Davis DVM,tthomas@example.net,001-839-337-072,10,A+,2023-06-30
+SUP002,"Boyle, Abbott and Sherman",Germany,Melissa Duncan,zbaker@example.org,809.693.9332x77,6,B+,2023-08-25
+SUP003,"Oneill, Vincent and Case",India,Lindsay Kim,tracy86@example.net,917-808-2219,4,A,2024-10-26
+SUP004,"Stein, Taylor and Jones",USA,Joan Snyder,millerchristopher@example.net,001-523-352-521,22,B,2023-04-04
+SUP005,Medina PLC,France,Kara Patel,mark39@example.com,001-905-850-144,16,A+,2021-07-21
+SUP006,Gibbs Inc,UK,Judith Gonzalez,shirleyboyd@example.com,(298)502-5519,29,A,2022-07-09
+SUP007,"Johnson, Navarro and Lewis",Switzerland,Kevin Castro,stephanie90@example.com,001-752-808-096,18,A,2021-07-26
+SUP008,Hoffman LLC,Jordan,Catherine Moore,nshort@example.com,001-980-870-658,6,B,2022-01-07
+SUP009,Nelson Group,Egypt,Jason Collins,manderson@example.org,+1-474-716-0492,15,A+,2023-05-08
+SUP010,Haley and Sons,Turkey,Jacqueline Norris,christina15@example.net,+1-511-844-5693,4,A,2021-09-07
+SUP011,"Williams, Adams and Morton",Italy,Debbie Roberson,steven78@example.org,272-846-5400x14,8,A+,2021-11-10
+SUP012,James LLC,Spain,Jacob Pierce,christopher91@example.org,+1-912-690-9128,25,A,2024-05-15
+SUP013,Wolf Ltd,Netherlands,Matthew Thompson,ksloan@example.com,561-785-1075,6,B,2024-06-04
+SUP014,"Cole, Hill and Williams",Belgium,Crystal Martinez,vdalton@example.net,845-977-0823,17,B,2025-05-31
+SUP015,Gallegos-Walker,Sweden,Laura Brooks,phillipsgregory@example.net,+1-933-307-0556,29,B,2023-03-13

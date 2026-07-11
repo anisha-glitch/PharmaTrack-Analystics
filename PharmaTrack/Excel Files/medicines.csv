@@ -1,0 +1,1358 @@
+MedicineID,MedicineName,DosageForm,Category,Type,UnitPrice,SupplierID,RequiresPrescription,StorageCondition
+MED0001,Mebo Scar,Ointment,Topical,Drug,26.66,SUP002,No,Room Temperature
+MED0002,Fucidine 15G Oint,Ointment,Topical,Drug,3.93,SUP003,No,Refrigerated
+MED0003,Irazole  100Mg  15Tab,Capsule,Oral Solid,Drug,6.59,SUP010,No,Cool & Dry
+MED0004,Mesone,Ointment,Topical,Drug,11.26,SUP013,No,Cool & Dry
+MED0005,Fucicort,Cream,Topical,Drug,30.25,SUP004,No,Cool & Dry
+MED0006,Istovin 20Mg,Capsule,Oral Solid,Drug,14.02,SUP013,Yes,Cool & Dry
+MED0007,Clorocil 5G Eye Ointments,Ointment,Topical,Drug,36.01,SUP002,Yes,Refrigerated
+MED0008,Heal Fast Gel 50Ml,Cream,Topical,Supply,6.22,SUP014,Yes,Room Temperature
+MED0009,Mucosolve 100Ml,Syrup,Oral Liquid,Drug,8.75,SUP002,Yes,Refrigerated
+MED0010,Cosinus 60Ml Nose And Sinuses,Spray,Respiratory,Drug,8.95,SUP001,No,Refrigerated
+MED0011,Piodol Cold&Flu Day,Tablet,Oral Solid,Drug,5.54,SUP012,Yes,Room Temperature
+MED0012,Piodol Night,Tablet,Oral Solid,Drug,10.85,SUP001,No,Refrigerated
+MED0013,Fucidine 15G Cream,Cream,Topical,Drug,3.98,SUP012,No,Refrigerated
+MED0014,Cystiphane Biorga Hair Loss,Shampoo,Personal Care,Supply,7.57,SUP013,No,Room Temperature
+MED0015,Caelin Vitamin E Plus,Soap,Personal Care,Supply,20.2,SUP006,No,Room Temperature
+MED0016,Asmafort Tablet,Tablet,Oral Solid,Drug,11.58,SUP014,No,Room Temperature
+MED0017,D-Lortin 5Mg,Tablet,Oral Solid,Drug,5.58,SUP015,No,Refrigerated
+MED0018,Caelin %2 Sulfur,Soap,Personal Care,Supply,18.5,SUP010,No,Cool & Dry
+MED0019,Acm Depiwhite Advanced,Cream,Topical,Supply,32.95,SUP002,No,Refrigerated
+MED0020,Queen Aromatherapy Grad,Soap,Personal Care,Supply,2.18,SUP003,No,Room Temperature
+MED0021,Sebium Photoderm Akn Mat Spf 30 40Ml,Cream,Topical,Supply,32.82,SUP010,Yes,Room Temperature
+MED0022,Refit Cap,Capsule,Oral Solid,Drug,14.42,SUP011,Yes,Cool & Dry
+MED0023,Seawater Nasal Spray,Nasal Spray,Nasal,Drug,11.81,SUP014,No,Room Temperature
+MED0024,Panda 1000Mg,Tablet,Oral Solid,Drug,4.38,SUP008,Yes,Refrigerated
+MED0025,Prednisolon  5Mg,Tablet,Oral Solid,Drug,19.21,SUP011,No,Room Temperature
+MED0026,Allermine 25Mg,Tablet,Oral Solid,Drug,7.73,SUP014,No,Room Temperature
+MED0027,Benzac Ac 5%,Cream,Topical,Drug,6.43,SUP006,No,Room Temperature
+MED0028,Isotoin 20Mg Usp,Capsule,Oral Solid,Drug,3.29,SUP013,No,Room Temperature
+MED0029,Trimoks 480Mg,Tablet,Oral Solid,Drug,17.18,SUP011,No,Refrigerated
+MED0030,Babe New Nuevo Spf 50,Cream,Topical,Supply,25.34,SUP002,No,Room Temperature
+MED0031,Opizole B,Cream,Topical,Drug,32.86,SUP010,Yes,Room Temperature
+MED0032,Colgate Maxwhite 75Ml,Toothpaste,Personal Care,Supply,22.43,SUP002,No,Room Temperature
+MED0033,Canesten 20G Skin Cream,Cream,Topical,Drug,22.84,SUP001,No,Refrigerated
+MED0034,Pediatric  Emollient 200Ml,Cream,Topical,Supply,39.01,SUP012,No,Room Temperature
+MED0035,Caelin  Baby Care,Soap,Personal Care,Supply,12.6,SUP003,No,Room Temperature
+MED0036,Colevit D3 5000Iu,Capsule,Oral Solid,Drug,11.71,SUP004,No,Cool & Dry
+MED0037,Clavomed 500/125Mg,Tablet,Oral Solid,Supply,16.84,SUP015,Yes,Cool & Dry
+MED0038,Betasalek 30G,Ointment,Topical,Drug,25.89,SUP012,Yes,Room Temperature
+MED0039,Lasix  40Mg,Tablet,Oral Solid,Drug,17.44,SUP015,No,Room Temperature
+MED0040,Cipro 500Mg,Tablet,Oral Solid,Drug,12.18,SUP002,Yes,Room Temperature
+MED0041,Odnatron Injection 8Mg/4M,Solution,Oral Liquid,Supply,13.27,SUP003,No,Refrigerated
+MED0042,Prospan,Syrup,Oral Liquid,Drug,2.73,SUP002,Yes,Room Temperature
+MED0043,No-Vomit 8Mg,Tablet,Oral Solid,Drug,5.72,SUP012,Yes,Room Temperature
+MED0044,Kidssi Growth 150Ml,Syrup,Oral Liquid,Drug,6.63,SUP002,No,Cool & Dry
+MED0045,Rugard Urea %10 Repair Bodylotion,Lotion,Topical,Supply,5.95,SUP001,Yes,Refrigerated
+MED0046,Chloramphenicol 1% W/W Eye Oint,Ointment,Topical,Supply,11.61,SUP007,No,Room Temperature
+MED0047,Johson Baby,Oil,Personal Care,Supply,4.83,SUP013,Yes,Refrigerated
+MED0048,Bebe Shampoo Zartpflege 200Ml,Shampoo,Personal Care,Supply,9.78,SUP011,No,Refrigerated
+MED0049,Sodium Chloride-Darnista 400Ml\,Solution,Oral Liquid,Supply,12.17,SUP004,No,Room Temperature
+MED0050,Levoximed  500Mg,Tablet,Oral Solid,Drug,8.25,SUP004,No,Cool & Dry
+MED0051,Fenaclo 30Tab Aceclofenac 100Mg,Tablet,Oral Solid,Supply,8.35,SUP001,No,Refrigerated
+MED0052,Arthri Flex,Gel,Topical,Drug,10.75,SUP012,No,Cool & Dry
+MED0053,Bioflex Plus Join Repair Formula,Tablet,Oral Solid,Drug,6.44,SUP002,Yes,Room Temperature
+MED0054,Ketalgin Long 30Mg,Injection,Injectable,Drug,75.57,SUP007,No,Room Temperature
+MED0055,Doreta,Tablet,Oral Solid,Drug,13.49,SUP006,No,Room Temperature
+MED0056,Ice Power Cold Gel,Gel,Topical,Drug,25.54,SUP011,No,Room Temperature
+MED0057,Lipo6 Black,Capsule,Oral Solid,Supply,4.67,SUP009,No,Cool & Dry
+MED0058,Bioderma Atoderm Intensive Baume  200Ml,Lotion,Topical,Supply,29.98,SUP004,No,Room Temperature
+MED0059,Chlomal 100Ml,Syrup,Oral Liquid,Drug,4.61,SUP008,Yes,Cool & Dry
+MED0060,Cotrim Fort,Tablet,Oral Solid,Drug,8.52,SUP014,No,Cool & Dry
+MED0061,Ibulife 400Mg,Tablet,Oral Solid,Drug,19.81,SUP004,Yes,Cool & Dry
+MED0062,X-Cough 100Ml,Syrup,Oral Liquid,Drug,12.24,SUP012,No,Refrigerated
+MED0063,Bioderma Sebium,Gel,Topical,Supply,23.61,SUP008,No,Room Temperature
+MED0064,Dexamethasone 10 Ampoules,Solution,Oral Liquid,Supply,12.95,SUP010,Yes,Cool & Dry
+MED0065,Alfacort Cream,Cream,Topical,Drug,34.19,SUP012,Yes,Room Temperature
+MED0066,Lora Aiwa 10Mg,Tablet,Oral Solid,Drug,15.86,SUP003,No,Room Temperature
+MED0067,Folene Treatment Eyelash And Eyebrow,Lotion,Topical,Supply,11.47,SUP008,No,Room Temperature
+MED0068,Gainuup Powerful Fruits 300G,Powder,Dermatology,Supply,5.64,SUP005,No,Refrigerated
+MED0069,Fat Fast  Capsol 60,Capsule,Oral Solid,Supply,7.34,SUP012,Yes,Cool & Dry
+MED0070,P.O,Powder,Dermatology,Supply,10.35,SUP011,No,Room Temperature
+MED0071,Lizest Syrup 150Ml,Syrup,Oral Liquid,Supply,5.38,SUP010,Yes,Refrigerated
+MED0072,Nutrigen Vegy 12Vitamins +3Minerals  200Ml,Syrup,Oral Liquid,Drug,17.09,SUP014,No,Room Temperature
+MED0073,Nectar 100% Natural,Powder,Dermatology,Supply,22.53,SUP014,Yes,Room Temperature
+MED0074,Capsoli Batal,Capsule,Oral Solid,Drug,7.32,SUP001,Yes,Cool & Dry
+MED0075,White Plus [+] Night 30Ml,Cream,Topical,Supply,27.25,SUP008,No,Room Temperature
+MED0076,Gold Collagen Anti-Ageing,Serum,Topical,Supply,17.64,SUP003,No,Room Temperature
+MED0077,Avene Antirougeurs Fort  30Ml,Cream,Topical,Supply,36.84,SUP009,Yes,Refrigerated
+MED0078,Cystiphane Biorga,Tablet,Oral Solid,Drug,9.99,SUP001,Yes,Refrigerated
+MED0079,Eromycin  125Mg,Syrup,Oral Liquid,Drug,6.24,SUP002,No,Room Temperature
+MED0080,Mebo,Ointment,Topical,Drug,12.13,SUP003,Yes,Cool & Dry
+MED0081,Avene Cleanance Gel  300Ml,Gel,Topical,Supply,23.77,SUP004,Yes,Refrigerated
+MED0082,Femifol Aiwa 5Mg,Tablet,Oral Solid,Drug,6.36,SUP005,Yes,Room Temperature
+MED0083,Isomac 20,Capsule,Oral Solid,Drug,12.31,SUP003,Yes,Cool & Dry
+MED0084,Elica-M,Ointment,Topical,Drug,36.22,SUP015,No,Room Temperature
+MED0085,Multvitamin Orange Flavour,Tablet,Oral Solid,Supply,8.89,SUP009,No,Room Temperature
+MED0086,Panderm Skin Ointment,Ointment,Topical,Drug,11.11,SUP010,Yes,Room Temperature
+MED0087,Sulphur %10 (Sulphatan),Soap,Personal Care,Supply,29.93,SUP004,Yes,Room Temperature
+MED0088,Mydocalm 150Mg  Labatec Pharma,Tablet,Oral Solid,Drug,10.93,SUP012,No,Refrigerated
+MED0089,Diclo-Denk 100Mg,Suppository,Suppository,Drug,5.45,SUP002,No,Room Temperature
+MED0090,Ciprofloxacin 500Mg /Accord,Tablet,Oral Solid,Drug,2.37,SUP012,No,Cool & Dry
+MED0091,Acm Depiwhite Eye Contour,Gel,Topical,Supply,7.06,SUP013,Yes,Room Temperature
+MED0092,Cytomid 250Mg,Tablet,Oral Solid,Drug,13.11,SUP002,No,Room Temperature
+MED0093,Dilaprost 5Mg,Tablet,Oral Solid,Drug,16.15,SUP004,No,Cool & Dry
+MED0094,Hydroderm Moisturizing  Urea 5%,Cream,Topical,Supply,18.62,SUP003,Yes,Refrigerated
+MED0095,White Intense Night 30Ml,Cream,Topical,Supply,5.35,SUP014,Yes,Refrigerated
+MED0096,Triamcinolon N.N.,Ointment,Topical,Drug,17.12,SUP006,No,Refrigerated
+MED0097,Depo-Medrol 40Mg,Injection,Injectable,Drug,79.73,SUP013,No,Room Temperature
+MED0098,Onlefit Cap,Capsule,Oral Solid,Drug,11.29,SUP004,Yes,Room Temperature
+MED0099,Meratrum 3 A-Z/30Tab.,Tablet,Oral Solid,Drug,19.46,SUP003,Yes,Room Temperature
+MED0100,Fokids Vitality  150Ml,Syrup,Oral Liquid,Drug,15.77,SUP007,No,Cool & Dry
+MED0101,Nutricia Nutrinidrink Vanilla,Milk Formula,Oral Liquid,Supply,2.18,SUP011,Yes,Room Temperature
+MED0102,Novophan Energizing,Shampoo,Personal Care,Supply,22.18,SUP014,No,Room Temperature
+MED0103,Hair Booster 60Gum,Lozenge,Oral Solid,Drug,14.11,SUP010,Yes,Refrigerated
+MED0104,Vichy Energising Hair Loss Shampoo 200 Ml,Shampoo,Personal Care,Supply,17.04,SUP005,No,Cool & Dry
+MED0105,Nutrigen Growmega Fish Oil  200Ml Help Childern,Syrup,Oral Liquid,Drug,6.27,SUP010,No,Room Temperature
+MED0106,Benzoyl Gel 5% Coral,Gel,Topical,Drug,26.72,SUP007,No,Room Temperature
+MED0107,Medulac-Wm,Syrup,Oral Liquid,Drug,3.78,SUP009,Yes,Room Temperature
+MED0108,Sensilab Flexi Force 100Ml,Gel,Topical,Drug,19.09,SUP011,No,Cool & Dry
+MED0109,Uricol Powder,Sachet,Oral Solid,Drug,9.89,SUP005,Yes,Refrigerated
+MED0110,Voltfast 50Mg 30 Satchet,Powder,Dermatology,Drug,24.08,SUP004,Yes,Cool & Dry
+MED0111,Betasonate Eye Ointment,Eye Ointment,Ophthalmic,Drug,31.65,SUP007,No,Room Temperature
+MED0112,Nidazole 500Mg,Tablet,Oral Solid,Drug,6.37,SUP005,Yes,Cool & Dry
+MED0113,Loperamide  2Mg,Tablet,Oral Solid,Drug,10.76,SUP014,Yes,Room Temperature
+MED0114,Amoclan Forte 625Mg Hikma,Tablet,Oral Solid,Drug,4.81,SUP006,No,Cool & Dry
+MED0115,Doxycreat 100Mg,Tablet,Oral Solid,Drug,18.38,SUP012,Yes,Room Temperature
+MED0116,Uriage Hyseac Spf 50 Fluid 50Ml,Cream,Topical,Supply,35.21,SUP004,Yes,Cool & Dry
+MED0117,Paraxone 300Mg,Tablet,Oral Solid,Supply,7.02,SUP009,Yes,Room Temperature
+MED0118,Drains The Oil,Capsule,Oral Solid,Supply,13.32,SUP001,Yes,Cool & Dry
+MED0119,C-Lax  25Tab,Tablet,Oral Solid,Drug,12.77,SUP011,Yes,Room Temperature
+MED0120,Selovita-D3 300.000 I.U/Ml,Injection,Injectable,Drug,20.7,SUP015,No,Room Temperature
+MED0121,Multivitamin Hansal,Tablet,Oral Solid,Drug,15.61,SUP011,No,Room Temperature
+MED0122,Kiloloss,Capsule,Oral Solid,Supply,11.48,SUP005,No,Room Temperature
+MED0123,Isis Teen Derm,Gel,Topical,Supply,31.81,SUP005,No,Room Temperature
+MED0124,Ferplex 40Mg,Solution,Oral Liquid,Drug,10.49,SUP013,No,Cool & Dry
+MED0125,Bioderma Atoderm Pain,Soap,Personal Care,Supply,2.02,SUP003,No,Refrigerated
+MED0126,Kidsvital Multivitamin Tonic Sunlife,Syrup,Oral Liquid,Drug,7.19,SUP002,No,Refrigerated
+MED0127,Diane 35,Tablet,Oral Solid,Drug,1.86,SUP001,No,Cool & Dry
+MED0128,Vitadine 200Ml,Syrup,Oral Liquid,Drug,16.87,SUP002,Yes,Refrigerated
+MED0129,Artelac Single Dose Ed,Drop,Oral Liquid,Drug,16.06,SUP008,No,Refrigerated
+MED0130,Gel Mouss Effaclar 200Ml,Gel,Topical,Supply,33.77,SUP006,Yes,Room Temperature
+MED0131,Bioderma Sensibio Ar,Cream,Topical,Supply,14.38,SUP015,Yes,Room Temperature
+MED0132,Collafix 60Cap,Capsule,Oral Solid,Drug,2.57,SUP012,No,Room Temperature
+MED0133,Scarmed Silicon Gel,Gel,Topical,Drug,35.49,SUP001,Yes,Room Temperature
+MED0134,Cefodox 200Mg,Tablet,Oral Solid,Drug,19.02,SUP010,No,Room Temperature
+MED0135,Marathon 60 Tab,Capsule,Oral Solid,Drug,3.08,SUP013,No,Room Temperature
+MED0136,Trimoksazol  (400+80)Mg,Tablet,Oral Solid,Drug,10.49,SUP014,No,Refrigerated
+MED0137,Pregabalin Accord 75Mg Hard,Capsule,Oral Solid,Drug,2.78,SUP007,No,Room Temperature
+MED0138,Beneday 250/250/1/300Mg,Tablet,Oral Solid,Drug,15.57,SUP002,No,Room Temperature
+MED0139,Arcoxia 90 Mg,Tablet,Oral Solid,Drug,15.67,SUP011,No,Room Temperature
+MED0140,Bioflex Cream,Cream,Topical,Drug,7.75,SUP013,Yes,Refrigerated
+MED0141,Nutra Sleep Well ( Healthy Pectin Gummy),Lozenge,Oral Solid,Supply,10.29,SUP015,No,Room Temperature
+MED0142,La Roche-Posay Lipikar Lait Milk Skn,Milk Formula,Oral Liquid,Supply,10.8,SUP012,No,Room Temperature
+MED0143,Sleep Aid Enjoy Your Sweet Dreams,Lozenge,Oral Solid,Drug,6.4,SUP008,No,Refrigerated
+MED0144,Lrp Anthelis Xl Spf 50Dry Touch Cream,Gel,Topical,Supply,35.28,SUP001,Yes,Refrigerated
+MED0145,Fast Fat Super 1&2 2*60,Tablet,Oral Solid,Supply,9.33,SUP012,No,Room Temperature
+MED0146,Paracetamol 500Mg,Tablet,Oral Solid,Drug,5.42,SUP011,No,Room Temperature
+MED0147,Exym 100Ml,Syrup,Oral Liquid,Supply,10.63,SUP002,No,Cool & Dry
+MED0148,Gerovital Plant Stop Acnee Jel,Gel,Topical,Supply,30.01,SUP006,Yes,Room Temperature
+MED0149,Lefox 500 Mg,Tablet,Oral Solid,Drug,5.22,SUP010,No,Room Temperature
+MED0150,Schauma Kids Shampoo & Waschgel For Girl,Shampoo,Personal Care,Supply,10.73,SUP013,No,Room Temperature
+MED0151,Lipster  5G,Cream,Topical,Drug,39.82,SUP015,No,Cool & Dry
+MED0152,Avene Physiolift Night Cream 30Ml,Cream,Topical,Supply,27.05,SUP015,No,Cool & Dry
+MED0153,Arcoxia 120Mg,Tablet,Oral Solid,Drug,9.6,SUP006,No,Room Temperature
+MED0154,Depo-Medrol 80Mg Syring,Injection,Injectable,Drug,46.23,SUP012,Yes,Room Temperature
+MED0155,Amoxicillin 500Mg,Capsule,Oral Solid,Drug,3.74,SUP011,No,Refrigerated
+MED0156,Dentissimo Gold 75Ml,Toothpaste,Personal Care,Supply,8.29,SUP010,Yes,Refrigerated
+MED0157,Moclavin 875/125Mg,Tablet,Oral Solid,Drug,7.75,SUP011,Yes,Refrigerated
+MED0158,Caelin Ketovit Shampoo,Shampoo,Personal Care,Supply,18.47,SUP002,Yes,Room Temperature
+MED0159,Vitarux Multi V Itamin,Syrup,Oral Liquid,Drug,5.68,SUP010,No,Room Temperature
+MED0160,Tamsulin  Aiwa 0.4Mg,Capsule,Oral Solid,Drug,5.57,SUP005,Yes,Cool & Dry
+MED0161,Cialis 5Mg,Tablet,Oral Solid,Drug,2.81,SUP012,Yes,Cool & Dry
+MED0162,Tq-Flox 500,Tablet,Oral Solid,Drug,13.18,SUP014,No,Room Temperature
+MED0163,Vitis Gingival,Mouthwash,Personal Care,Supply,8.41,SUP006,No,Refrigerated
+MED0164,Alfacort Ointment,Ointment,Topical,Drug,36.5,SUP008,No,Cool & Dry
+MED0165,Mecozalen Oral Gel 50G,Gel,Topical,Supply,34.81,SUP006,Yes,Cool & Dry
+MED0166,Imavir Acyclovir Cream 5Mg,Cream,Topical,Supply,5.62,SUP012,No,Refrigerated
+MED0167,Bioderma Photoderm Tinted  Max  Spf 50  40Ml,Cream,Topical,Supply,11.81,SUP013,No,Room Temperature
+MED0168,Ultra Growth Plus 60Cap,Capsule,Oral Solid,Supply,13.88,SUP008,No,Refrigerated
+MED0169,Kin Gingival  75Ml,Toothpaste,Personal Care,Supply,8,SUP006,No,Room Temperature
+MED0170,Julmentin  2X  1000Mg,Tablet,Oral Solid,Drug,3.95,SUP008,No,Refrigerated
+MED0171,Betasone Cream,Cream,Topical,Drug,37.61,SUP005,No,Room Temperature
+MED0172,Pediatric Extra Mild 200Ml,Shampoo,Personal Care,Supply,17.99,SUP013,Yes,Room Temperature
+MED0173,Julmentin Fort  625Mg,Tablet,Oral Solid,Drug,10.24,SUP008,No,Room Temperature
+MED0174,Ibuprofen  400Mg,Tablet,Oral Solid,Drug,16.02,SUP006,No,Refrigerated
+MED0175,Olfen-75,Injection,Injectable,Drug,66.52,SUP009,Yes,Room Temperature
+MED0176,D.Dep Junior Drop 15Ml,Drop,Oral Liquid,Supply,5.05,SUP012,No,Refrigerated
+MED0177,Glme+,Capsule,Oral Solid,Drug,3.29,SUP004,No,Cool & Dry
+MED0178,Slim & Well,Capsule,Oral Solid,Drug,9.47,SUP004,No,Room Temperature
+MED0179,Caelin %5 Sulfur,Soap,Personal Care,Supply,13.86,SUP010,No,Room Temperature
+MED0180,Kapsol P-N 30,Capsule,Oral Solid,Drug,10.14,SUP003,No,Cool & Dry
+MED0181,Kapsol G-A 30,Capsule,Oral Solid,Supply,14.99,SUP001,No,Room Temperature
+MED0182,Fine`S Immune Booster Pectin Gummies,Lozenge,Oral Solid,Drug,13.96,SUP012,No,Refrigerated
+MED0183,Zinc Oxide Ointment 25Gm,Ointment,Topical,Drug,39.41,SUP006,No,Cool & Dry
+MED0184,Suprax  200Mg,Capsule,Oral Solid,Drug,3.32,SUP007,No,Room Temperature
+MED0185,Ciprofloxacin 750Mg,Tablet,Oral Solid,Drug,8.95,SUP008,Yes,Cool & Dry
+MED0186,Adhesive Roll Plaser Zinc-Oxid 3M*2.5Cm,Patch,Transdermal,Supply,28.57,SUP015,Yes,Room Temperature
+MED0187,Bioflex Plus Bioactivet,Capsule,Oral Solid,Drug,17.44,SUP008,Yes,Refrigerated
+MED0188,Nuro 360,Capsule,Oral Solid,Drug,6.1,SUP006,Yes,Cool & Dry
+MED0189,Choline & Inositol 500/500Mg,Tablet,Oral Solid,Supply,5.02,SUP015,Yes,Room Temperature
+MED0190,Tms Forte 800/160Mg,Tablet,Oral Solid,Drug,9.8,SUP013,Yes,Cool & Dry
+MED0191,Sansafe Acneic  Oil Free Fpf 50+,Cream,Topical,Supply,18.61,SUP014,Yes,Room Temperature
+MED0192,Dolomark 1000Mg,Tablet,Oral Solid,Drug,6.65,SUP007,No,Room Temperature
+MED0193,Parazar Gesic,Tablet,Oral Solid,Drug,6.12,SUP008,Yes,Refrigerated
+MED0194,Suprax D 400Mg,Tablet,Oral Solid,Drug,18.58,SUP014,Yes,Room Temperature
+MED0195,Micropore 3M .. Plaster Qawayii,Patch,Transdermal,Supply,32.73,SUP015,No,Room Temperature
+MED0196,B-White Scurb 100Ml,Cream,Topical,Supply,34.87,SUP008,No,Cool & Dry
+MED0197,B-White Night Whiteing Cream 100Ml,Cream,Topical,Supply,23.36,SUP008,No,Cool & Dry
+MED0198,B-White Facial Wash,Cream,Topical,Supply,4.87,SUP003,No,Cool & Dry
+MED0199,Differin  Adapalene 0.1%  30G,Gel,Topical,Drug,39.97,SUP003,No,Room Temperature
+MED0200,Isotretinion-10,Capsule,Oral Solid,Supply,16.97,SUP012,No,Cool & Dry
+MED0201,Prednabene 5Mg,Tablet,Oral Solid,Drug,19.43,SUP013,Yes,Room Temperature
+MED0202,Slimtol Green Coffee,Capsule,Oral Solid,Drug,18.64,SUP007,Yes,Cool & Dry
+MED0203,Gastrogen 4500Mg,Powder,Dermatology,Supply,21.97,SUP007,No,Cool & Dry
+MED0204,A-Ferin Plus 100Ml,Syrup,Oral Liquid,Drug,4.66,SUP001,Yes,Room Temperature
+MED0205,Apetito Biofaktor 150Ml,Syrup,Oral Liquid,Supply,9.77,SUP014,No,Room Temperature
+MED0206,Polaramine Repetabs,Tablet,Oral Solid,Drug,5.45,SUP003,Yes,Cool & Dry
+MED0207,Supixime,Syrup,Oral Liquid,Drug,8.42,SUP013,No,Cool & Dry
+MED0208,Trenaxa 500 Bp,Tablet,Oral Solid,Drug,2.58,SUP006,No,Room Temperature
+MED0209,Urilax 5Mg,Tablet,Oral Solid,Drug,8.51,SUP007,No,Refrigerated
+MED0210,Adva-Tonin,Capsule,Oral Solid,Supply,19.73,SUP014,No,Cool & Dry
+MED0211,Sure Slim,Capsule,Oral Solid,Drug,6.41,SUP011,No,Cool & Dry
+MED0212,Daily Complete Multivitamin Adva-Max,Tablet,Oral Solid,Supply,16.01,SUP003,No,Room Temperature
+MED0213,Sliming Advanced,Tablet,Oral Solid,Drug,9.92,SUP007,No,Room Temperature
+MED0214,Avene Emulsion Spf 50,Cream,Topical,Supply,18.65,SUP006,No,Refrigerated
+MED0215,Mass Vita Vaseline,Ointment,Topical,Supply,38.42,SUP001,Yes,Room Temperature
+MED0216,Ibuprofen Caps,Capsule,Oral Solid,Drug,19.92,SUP007,No,Room Temperature
+MED0217,Hydroderm Acne Wash,Gel,Topical,Supply,23.56,SUP013,No,Cool & Dry
+MED0218,Suprax  100Mg 60 Ml,Syrup,Oral Liquid,Drug,13.49,SUP014,No,Refrigerated
+MED0219,Pedifen,Syrup,Oral Liquid,Drug,4.48,SUP011,Yes,Room Temperature
+MED0220,Ultra Iron Plus,Capsule,Oral Solid,Drug,6.99,SUP015,No,Refrigerated
+MED0221,Nausea Relief Capsule,Capsule,Oral Solid,Drug,19.42,SUP003,Yes,Room Temperature
+MED0222,Largopen     500Mg,Capsule,Oral Solid,Drug,12.21,SUP003,Yes,Room Temperature
+MED0223,Protecta,Tablet,Oral Solid,Drug,11.53,SUP010,Yes,Room Temperature
+MED0224,Mome-M 30G,Cream,Topical,Supply,30.68,SUP003,Yes,Room Temperature
+MED0225,Potenza 160/12.5/5 Mg,Tablet,Oral Solid,Drug,2.56,SUP004,No,Room Temperature
+MED0226,Fastum Gel  (Refused B ),Gel,Topical,Drug,24.61,SUP002,No,Cool & Dry
+MED0227,"Viga 150,000 - 45Ml",Spray,Respiratory,Supply,24.09,SUP001,No,Refrigerated
+MED0228,Carbinib  Tab,Tablet,Oral Solid,Drug,17.28,SUP007,No,Cool & Dry
+MED0229,Amikacin Sulfate 1000Mg,Injection,Injectable,Drug,21.02,SUP008,No,Cool & Dry
+MED0230,Paracetamol 500Mg 10*10,Tablet,Oral Solid,Drug,19.27,SUP003,Yes,Room Temperature
+MED0231,Head Lice Shampoo Deniz,Shampoo,Personal Care,Supply,4.24,SUP005,Yes,Room Temperature
+MED0232,Laxodcodyl 5,Tablet,Oral Solid,Drug,4.94,SUP006,No,Cool & Dry
+MED0233,Sefarin 300Mg,Capsule,Oral Solid,Drug,12.51,SUP004,No,Refrigerated
+MED0234,Lactulose Aiwa,Syrup,Oral Liquid,Drug,12.8,SUP001,No,Cool & Dry
+MED0235,Laxodep,Capsule,Oral Solid,Drug,5.85,SUP008,No,Cool & Dry
+MED0236,Betasalek 50Ml,Lotion,Topical,Drug,7.44,SUP007,No,Cool & Dry
+MED0237,Ebetrex 50Mg/5Ml,Injection,Injectable,Supply,72.32,SUP003,No,Cool & Dry
+MED0238,Xylo Acino 0.1%,Spray,Respiratory,Drug,15.88,SUP005,No,Room Temperature
+MED0239,Foltene Scalp Treatment Women,Injection,Injectable,Supply,51.62,SUP014,No,Room Temperature
+MED0240,Cystiphane Biorga Lotion-Anti-Chute,Lotion,Topical,Supply,25.92,SUP014,No,Refrigerated
+MED0241,Q2 Dha 12G Tab,Tablet,Oral Solid,Drug,9.26,SUP009,No,Room Temperature
+MED0242,Zomax 500Mg,Tablet,Oral Solid,Drug,12.3,SUP005,No,Refrigerated
+MED0243,Betaspan 4Mg/Ml,Injection,Injectable,Drug,46.59,SUP004,Yes,Room Temperature
+MED0244,Peapod (Prenatal) 60Tab,Tablet,Oral Solid,Drug,18.79,SUP004,No,Room Temperature
+MED0245,Letromara 2.5Mg,Tablet,Oral Solid,Drug,5.28,SUP008,No,Refrigerated
+MED0246,Endogen Hp 75Iu,Injection,Injectable,Supply,60.13,SUP010,No,Room Temperature
+MED0247,Injesta 2.5% 1Ml,Solution,Oral Liquid,Drug,5.82,SUP012,No,Room Temperature
+MED0248,Ketoral,Shampoo,Personal Care,Supply,13.08,SUP008,Yes,Cool & Dry
+MED0249,Amoclan Bid 1G,Tablet,Oral Solid,Drug,13.93,SUP007,No,Cool & Dry
+MED0250,Betalek Ointent 30G,Ointment,Topical,Drug,14.1,SUP007,No,Room Temperature
+MED0251,Bioderma Photoderm  Max  Spf 50  40Ml Toucher  Sec Dry Touch,Cream,Topical,Supply,14.7,SUP014,No,Cool & Dry
+MED0252,Voltaren 100Mg,Suppository,Suppository,Drug,16.03,SUP003,Yes,Room Temperature
+MED0253,Uronephron   60Tab,Tablet,Oral Solid,Drug,2.84,SUP008,No,Refrigerated
+MED0254,Co-Codamol 8/500Mg,Tablet,Oral Solid,Drug,9.98,SUP011,Yes,Cool & Dry
+MED0255,Brosin  0.4Mg,Capsule,Oral Solid,Drug,19.97,SUP001,Yes,Refrigerated
+MED0256,Coral S Isotretionin 20,Capsule,Oral Solid,Drug,19.93,SUP006,Yes,Room Temperature
+MED0257,Vermazol 100Mg,Tablet,Oral Solid,Supply,2.86,SUP002,No,Refrigerated
+MED0258,Angizar-50Mg,Tablet,Oral Solid,Drug,5.44,SUP002,No,Cool & Dry
+MED0259,Bglau 5Ml,Drop,Oral Liquid,Drug,6.24,SUP006,No,Room Temperature
+MED0260,Ruxaclam 875Mg/125Mg,Tablet,Oral Solid,Drug,18.77,SUP012,Yes,Refrigerated
+MED0261,Dolipran 1000Mg,Tablet,Oral Solid,Drug,17.8,SUP008,No,Room Temperature
+MED0262,Figo Pflaster-Strips,Patch,Transdermal,Supply,50.17,SUP010,Yes,Room Temperature
+MED0263,Silfect 50Mg,Tablet,Oral Solid,Drug,8.34,SUP005,No,Cool & Dry
+MED0264,Collagen Advanced 30Cap,Capsule,Oral Solid,Supply,4.42,SUP003,No,Room Temperature
+MED0265,Adolor Strong 1000Mg,Tablet,Oral Solid,Drug,16.92,SUP004,No,Refrigerated
+MED0266,Sano-D3 50.000 Oral,Solution,Oral Liquid,Supply,13.26,SUP009,Yes,Room Temperature
+MED0267,Megajoint Support (Food Supplement),Tablet,Oral Solid,Drug,12.82,SUP008,No,Refrigerated
+MED0268,No-Vomit 100Ml,Syrup,Oral Liquid,Drug,17.8,SUP013,No,Refrigerated
+MED0269,Flagyl 125Mg/5Ml   120Ml,Syrup,Oral Liquid,Drug,12.46,SUP004,No,Cool & Dry
+MED0270,Sensi Kin,Toothpaste,Personal Care,Supply,2.22,SUP007,No,Refrigerated
+MED0271,Chlorohistol 100Ml Julphar,Syrup,Oral Liquid,Drug,15.07,SUP008,No,Cool & Dry
+MED0272,"Dibase 50,000 I.U/2.5 Ml",Solution,Oral Liquid,Drug,6.79,SUP001,Yes,Refrigerated
+MED0273,Cal-Vit 30Tab,Tablet,Oral Solid,Drug,13.77,SUP005,No,Refrigerated
+MED0274,Pandev 40Mg Tab,Tablet,Oral Solid,Drug,18.87,SUP011,No,Room Temperature
+MED0275,Trimoks  240Mg,Syrup,Oral Liquid,Drug,4.15,SUP003,No,Refrigerated
+MED0276,Irazole  100Mg  1Tab,Tablet,Oral Solid,Drug,3.64,SUP006,Yes,Refrigerated
+MED0277,Cloran Feminine Wash 150Ml,Gel,Topical,Supply,6.96,SUP011,No,Room Temperature
+MED0278,Avene Cleanance Spf 50,Cream,Topical,Supply,23.47,SUP005,No,Room Temperature
+MED0279,Appetite Plus,Syrup,Oral Liquid,Drug,6.36,SUP011,No,Room Temperature
+MED0280,Vitarux Multivitamin A-Z,Capsule,Oral Solid,Drug,12.69,SUP010,No,Refrigerated
+MED0281,Matcha Premium Japanese,Powder,Dermatology,Drug,19.35,SUP007,No,Cool & Dry
+MED0282,Deniz Spray Minoxidil  5%,Spray,Respiratory,Supply,14.52,SUP010,No,Room Temperature
+MED0283,Belosalic 0.5Mg+20Mg/G,Solution,Oral Liquid,Drug,12.15,SUP002,No,Refrigerated
+MED0284,Josweet,Drop,Oral Liquid,Drug,6.22,SUP010,No,Refrigerated
+MED0285,Life D3 5.000 Iu   60Tab,Tablet,Oral Solid,Drug,10.54,SUP003,Yes,Room Temperature
+MED0286,Ninfe Crema Anticellulite Azione Urto 250Ml,Cream,Topical,Supply,36.5,SUP009,Yes,Room Temperature
+MED0287,Amoclan  Bid 200Mg,Suspension,Oral Liquid,Drug,15.54,SUP005,Yes,Refrigerated
+MED0288,Ibuprofen Normon 20Mg/Ml 200Ml,Suspension,Oral Liquid,Drug,3.48,SUP006,No,Cool & Dry
+MED0289,Phenicol,Eye Ointment,Ophthalmic,Drug,19.44,SUP012,Yes,Cool & Dry
+MED0290,Levoneer 500Mg,Tablet,Oral Solid,Drug,6.62,SUP006,No,Room Temperature
+MED0291,Clomid 50 Mg,Tablet,Oral Solid,Drug,1.57,SUP013,No,Refrigerated
+MED0292,Fertilex Plus Men,Capsule,Oral Solid,Drug,15.77,SUP012,Yes,Room Temperature
+MED0293,Novophan Hair Loss,Lotion,Topical,Supply,26.57,SUP014,Yes,Room Temperature
+MED0294,Methotrexate 50Mg/5Ml Vial,Injection,Injectable,Drug,28.34,SUP003,Yes,Cool & Dry
+MED0295,Silfect 100 Mg,Tablet,Oral Solid,Drug,15.21,SUP006,Yes,Room Temperature
+MED0296,Piodol 100Ml Syrup,Syrup,Oral Liquid,Drug,10.83,SUP010,No,Room Temperature
+MED0297,Cyproheptadin Bp 4Mg,Tablet,Oral Solid,Drug,9.41,SUP008,Yes,Cool & Dry
+MED0298,Bepanthen Protective Baby,Ointment,Topical,Drug,3.36,SUP002,Yes,Cool & Dry
+MED0299,Caelin Hand & Fubcreme,Cream,Topical,Supply,5.78,SUP001,No,Refrigerated
+MED0300,Hyseke Biorga  Spf   50,Cream,Topical,Supply,35.67,SUP008,No,Refrigerated
+MED0301,"Vitamin D3 5,000 Iu Maximum Potency",Capsule,Oral Solid,Drug,18.22,SUP006,Yes,Refrigerated
+MED0302,Nutriatfal 125Ml,Syrup,Oral Liquid,Supply,10.73,SUP007,No,Cool & Dry
+MED0303,Predin,Syrup,Oral Liquid,Drug,15.35,SUP004,No,Refrigerated
+MED0304,Unidox Capsules 100Mg,Capsule,Oral Solid,Drug,12.28,SUP004,No,Room Temperature
+MED0305,Dimenhydrinate 50-Jalinous,Tablet,Oral Solid,Drug,4.24,SUP006,Yes,Room Temperature
+MED0306,Leflumax 500Mg,Tablet,Oral Solid,Drug,3.86,SUP012,Yes,Room Temperature
+MED0307,Novasil H 0.1%,Lotion,Topical,Drug,14.41,SUP004,Yes,Refrigerated
+MED0308,"Dibase 300,000 I.U./Ml",Injection,Injectable,Supply,72.93,SUP015,No,Cool & Dry
+MED0309,Eromycin  500Mg,Tablet,Oral Solid,Drug,16.23,SUP014,No,Cool & Dry
+MED0310,Viador 150Ml,Syrup,Oral Liquid,Drug,15.77,SUP015,Yes,Room Temperature
+MED0311,Coldawa 100Ml,Syrup,Oral Liquid,Supply,16.38,SUP006,No,Room Temperature
+MED0312,Strepsils,Lozenge,Oral Solid,Drug,5.39,SUP011,No,Room Temperature
+MED0313,Vitamin D3 2000 Vegan,Capsule,Oral Solid,Drug,6.12,SUP015,Yes,Room Temperature
+MED0314,"Alopecia Biotin 5,000Mcg",Tablet,Oral Solid,Drug,3.4,SUP015,No,Refrigerated
+MED0315,Chlorohistol 4Mg,Tablet,Oral Solid,Drug,15.93,SUP008,Yes,Room Temperature
+MED0316,Piocine 10Mg,Tablet,Oral Solid,Drug,17.86,SUP013,Yes,Room Temperature
+MED0317,Vitarux Vitamin C Ruxal,Tablet,Oral Solid,Drug,9.02,SUP005,No,Cool & Dry
+MED0318,Gain Up Kids Pawder 300G,Powder,Dermatology,Supply,17.41,SUP009,No,Cool & Dry
+MED0319,Biolact Plus Zinc,Sachet,Oral Solid,Drug,4.36,SUP006,No,Cool & Dry
+MED0320,Honeycure 30G,Ointment,Topical,Drug,37.41,SUP010,Yes,Refrigerated
+MED0321,Panadol Gsk Syria,Tablet,Oral Solid,Drug,17.5,SUP013,No,Refrigerated
+MED0322,Aspetax Protect  100Mg,Tablet,Oral Solid,Drug,19.56,SUP006,No,Cool & Dry
+MED0323,Ferfolik Plus B9 200Ml,Syrup,Oral Liquid,Supply,14.97,SUP012,Yes,Cool & Dry
+MED0324,Biovita Multivitamin With Hony,Syrup,Oral Liquid,Drug,16.1,SUP004,Yes,Room Temperature
+MED0325,Evosure  400G,Milk Formula,Oral Liquid,Supply,2.4,SUP015,Yes,Refrigerated
+MED0326,Tavanic 500Mg Original,Tablet,Oral Solid,Drug,15.13,SUP003,No,Refrigerated
+MED0327,Gaviscon 200Ml,Syrup,Oral Liquid,Supply,7.31,SUP006,No,Refrigerated
+MED0328,Renalka,Syrup,Oral Liquid,Drug,16.89,SUP013,Yes,Refrigerated
+MED0329,Nexium 40Mg,Tablet,Oral Solid,Drug,16.34,SUP011,No,Refrigerated
+MED0330,Provera  5Mg 24Tab,Tablet,Oral Solid,Drug,17.49,SUP010,No,Cool & Dry
+MED0331,Chloramphenicol Eye Ointment 1% 3G,Ointment,Topical,Supply,33,SUP015,Yes,Room Temperature
+MED0332,Pflege Shampoo 250Ml,Shampoo,Personal Care,Supply,9.47,SUP004,Yes,Room Temperature
+MED0333,Sx-7 Hydroxy Cut Gold Plus,Powder,Dermatology,Supply,20.75,SUP012,No,Refrigerated
+MED0334,Saciatrap,Powder,Dermatology,Supply,7.16,SUP010,Yes,Room Temperature
+MED0335,Doliprane 500 Mg,Tablet,Oral Solid,Drug,17.64,SUP010,No,Room Temperature
+MED0336,Folicum 5Mg,Tablet,Oral Solid,Drug,17.38,SUP004,Yes,Cool & Dry
+MED0337,Gainsure,Powder,Dermatology,Supply,9.45,SUP014,Yes,Room Temperature
+MED0338,Crestor 20Mg,Tablet,Oral Solid,Drug,16.61,SUP014,Yes,Room Temperature
+MED0339,Lansopral 30Mg  14Tab,Capsule,Oral Solid,Drug,10.02,SUP004,Yes,Refrigerated
+MED0340,Pediasure Vanela,Milk Formula,Oral Liquid,Supply,6.88,SUP008,No,Refrigerated
+MED0341,Floxin-L 500Mg,Tablet,Oral Solid,Drug,16.21,SUP010,Yes,Refrigerated
+MED0342,Dettol Antiseptic Liquid,Solution,Oral Liquid,Supply,5.64,SUP008,No,Room Temperature
+MED0343,Foltene  Women,Shampoo,Personal Care,Supply,2.66,SUP015,No,Room Temperature
+MED0344,White Fusion Morning Glow Night Serum,Serum,Topical,Supply,10.15,SUP001,Yes,Refrigerated
+MED0345,Metforal 500Mg,Tablet,Oral Solid,Drug,7.57,SUP006,Yes,Cool & Dry
+MED0346,Tradocomp 37.5Mg/325Mg,Tablet,Oral Solid,Drug,17.49,SUP009,No,Cool & Dry
+MED0347,"Hair,Skin & Nails Century",Tablet,Oral Solid,Drug,19.39,SUP015,No,Cool & Dry
+MED0348,Amoxicillin 250Mg,Tablet,Oral Solid,Drug,6.66,SUP002,No,Room Temperature
+MED0349,Ferachel Forte 1100Mg,Tablet,Oral Solid,Drug,13.37,SUP007,Yes,Refrigerated
+MED0350,Warimazol Vag 1%,Suppository,Suppository,Drug,10.39,SUP013,No,Room Temperature
+MED0351,Zolax 150,Capsule,Oral Solid,Drug,19.65,SUP003,No,Refrigerated
+MED0352,Pure Ocean Water Nasal Spray 0.9%,Nasal Spray,Nasal,Supply,15.72,SUP010,No,Room Temperature
+MED0353,Isocor 20Mg,Tablet,Oral Solid,Drug,18.88,SUP006,Yes,Room Temperature
+MED0354,Caelin Antibacterial Soap,Soap,Personal Care,Supply,5.23,SUP002,No,Cool & Dry
+MED0355,Amlodipine  10Mg,Tablet,Oral Solid,Drug,19.45,SUP009,No,Refrigerated
+MED0356,Yasmin,Tablet,Oral Solid,Drug,4.8,SUP008,Yes,Cool & Dry
+MED0357,Aprazole 40Mg,Capsule,Oral Solid,Drug,19.31,SUP008,No,Room Temperature
+MED0358,Olfen Gel,Gel,Topical,Drug,12.82,SUP010,Yes,Refrigerated
+MED0359,Ovocept  Ld,Tablet,Oral Solid,Drug,3.51,SUP015,Yes,Refrigerated
+MED0360,Babe Lip Repairing Cream,Cream,Topical,Supply,19.08,SUP015,Yes,Room Temperature
+MED0361,Burinex 1Mg,Tablet,Oral Solid,Drug,14.98,SUP012,Yes,Refrigerated
+MED0362,Biovita Omega 3 With Hony,Syrup,Oral Liquid,Drug,7.02,SUP005,Yes,Room Temperature
+MED0363,Farmazoline Xyloetazoline 0.05%,Drop,Oral Liquid,Drug,11.7,SUP002,Yes,Refrigerated
+MED0364,Dexacure 0.5 Mg,Syrup,Oral Liquid,Drug,10.18,SUP008,No,Cool & Dry
+MED0365,Aerius 0.5Mg/Ml,Syrup,Oral Liquid,Supply,8.16,SUP007,No,Room Temperature
+MED0366,Farmazoline Xylometazoline 0.1% Drop,Drop,Oral Liquid,Drug,11.23,SUP013,No,Refrigerated
+MED0367,Curam 457Mg/5Ml,Syrup,Oral Liquid,Supply,6.08,SUP004,No,Room Temperature
+MED0368,Piodol 500Mg Advance,Tablet,Oral Solid,Drug,14.61,SUP013,Yes,Room Temperature
+MED0369,Effaclar H,Cream,Topical,Supply,3.06,SUP013,Yes,Room Temperature
+MED0370,Colevit D3 30000Iu,Capsule,Oral Solid,Drug,18.62,SUP005,No,Room Temperature
+MED0371,Zinc Sulfat 220Mg,Capsule,Oral Solid,Drug,11.46,SUP012,Yes,Room Temperature
+MED0372,Metformin  Aiwa 850Mg,Tablet,Oral Solid,Drug,14.81,SUP003,Yes,Room Temperature
+MED0373,Mobic 15 Mg 30Tab,Tablet,Oral Solid,Drug,15.23,SUP006,No,Cool & Dry
+MED0374,Glycerin Supp. For Children,Suppository,Suppository,Drug,14.73,SUP014,No,Room Temperature
+MED0375,Peristil,Syrup,Oral Liquid,Drug,7.83,SUP013,Yes,Room Temperature
+MED0376,Chloreye,Ointment,Topical,Supply,5.59,SUP001,Yes,Room Temperature
+MED0377,Kin Whitening,Toothpaste,Personal Care,Supply,20.6,SUP008,Yes,Room Temperature
+MED0378,Fine`S Sleep Well,Lozenge,Oral Solid,Drug,7.61,SUP004,Yes,Refrigerated
+MED0379,Betasonate 20Ml,Lotion,Topical,Drug,14.61,SUP004,No,Cool & Dry
+MED0380,Filmox 500Mg,Capsule,Oral Solid,Drug,17.19,SUP011,No,Room Temperature
+MED0381,Thioctic Acid 300Mg,Capsule,Oral Solid,Drug,14.82,SUP001,No,Room Temperature
+MED0382,Prednisolone 5Mg,Tablet,Oral Solid,Drug,7.06,SUP006,No,Cool & Dry
+MED0383,Kidz Appetite-Energy,Syrup,Oral Liquid,Drug,6.95,SUP006,No,Refrigerated
+MED0384,Kendalife,Milk Formula,Oral Liquid,Supply,8.53,SUP014,Yes,Cool & Dry
+MED0385,Urilax 10Mg,Tablet,Oral Solid,Drug,8.94,SUP010,No,Room Temperature
+MED0386,Cipro-Denk 500,Tablet,Oral Solid,Drug,6.97,SUP008,No,Refrigerated
+MED0387,A-Z Vital,Tablet,Oral Solid,Drug,3.85,SUP009,No,Room Temperature
+MED0388,Ducray Kertyol-S Shampoo,Shampoo,Personal Care,Supply,13.77,SUP003,No,Room Temperature
+MED0389,Tadin 0.4Mg,Capsule,Oral Solid,Drug,18.9,SUP013,Yes,Refrigerated
+MED0390,Neurobion,Injection,Injectable,Drug,57.41,SUP005,No,Refrigerated
+MED0391,Neuroplus,Tablet,Oral Solid,Drug,18.2,SUP006,Yes,Room Temperature
+MED0392,Prostamin,Tablet,Oral Solid,Drug,12.89,SUP008,Yes,Room Temperature
+MED0393,Leveren 30Tab,Tablet,Oral Solid,Drug,7.07,SUP006,Yes,Refrigerated
+MED0394,Avas- (40Mg),Tablet,Oral Solid,Drug,11.64,SUP010,No,Room Temperature
+MED0395,Pethrin Life 5%,Cream,Topical,Drug,3.02,SUP015,Yes,Room Temperature
+MED0396,Elina Kids Sonnencream,Cream,Topical,Supply,13.62,SUP009,Yes,Refrigerated
+MED0397,Splat  Active Mouthwash 275Ml,Mouthwash,Personal Care,Supply,14.04,SUP004,No,Room Temperature
+MED0398,Hyafil,Cream,Topical,Supply,24.46,SUP014,Yes,Room Temperature
+MED0399,Piodol Extra  500Mg,Tablet,Oral Solid,Drug,13.61,SUP013,No,Refrigerated
+MED0400,Avene Cicalfate Post Act Care 40Ml,Cream,Topical,Supply,20.2,SUP011,No,Room Temperature
+MED0401,Mera White Plus Day Cream,Cream,Topical,Supply,19.36,SUP004,No,Room Temperature
+MED0402,Bioderma White Objective Night,Serum,Topical,Supply,10.91,SUP015,Yes,Cool & Dry
+MED0403,Mr Gummy Garcinia Cambogia,Lozenge,Oral Solid,Drug,10.25,SUP010,No,Room Temperature
+MED0404,Neurorubine-Forte,Tablet,Oral Solid,Drug,18.17,SUP010,Yes,Room Temperature
+MED0405,Dilaprost 1Mg,Tablet,Oral Solid,Drug,16.23,SUP002,No,Room Temperature
+MED0406,Dercos Aminexil Clinical,Injection,Injectable,Supply,21.88,SUP005,No,Room Temperature
+MED0407,Adol 125 Mg,Suppository,Suppository,Drug,5.36,SUP012,No,Cool & Dry
+MED0408,Paidofebril 100Mg/200Ml,Syrup,Oral Liquid,Supply,10.25,SUP001,No,Cool & Dry
+MED0409,Munatoril Cold Cough  120Ml,Syrup,Oral Liquid,Drug,12.13,SUP012,No,Room Temperature
+MED0410,Magnesium Aiwa,Powder,Dermatology,Drug,11.7,SUP015,No,Cool & Dry
+MED0411,Gamavate 25Gram,Cream,Topical,Drug,33.28,SUP004,No,Refrigerated
+MED0412,Dexamethasone (4Mg/Ml)  2Ml,Injection,Injectable,Drug,62.58,SUP009,No,Room Temperature
+MED0413,Urotem Dol,Tablet,Oral Solid,Drug,13.95,SUP013,No,Room Temperature
+MED0414,Nopain   D.S.,Tablet,Oral Solid,Drug,5.66,SUP009,No,Room Temperature
+MED0415,Zynovate,Cream,Topical,Drug,10.37,SUP005,No,Refrigerated
+MED0416,Zinc 25Mg Cap,Capsule,Oral Solid,Drug,1.95,SUP004,No,Room Temperature
+MED0417,Gerovital Tratament Expert Anti-Hair Loss  250Ml,Shampoo,Personal Care,Supply,8.86,SUP013,No,Cool & Dry
+MED0418,Gerovital Tratament Expert,Injection,Injectable,Supply,43.26,SUP007,Yes,Cool & Dry
+MED0419,Scargel With Alantoin 35G,Gel,Topical,Drug,34.44,SUP007,No,Room Temperature
+MED0420,Folidine Plus,Tablet,Oral Solid,Drug,2.85,SUP012,No,Room Temperature
+MED0421,Betnosam Cream,Cream,Topical,Drug,18.33,SUP014,Yes,Room Temperature
+MED0422,Melacare,Cream,Topical,Drug,26.3,SUP014,No,Room Temperature
+MED0423,Stress B With Zinc,Tablet,Oral Solid,Drug,5.1,SUP001,No,Refrigerated
+MED0424,Duphaston 10Mg اصلى,Tablet,Oral Solid,Drug,14.38,SUP005,No,Cool & Dry
+MED0425,Castor Oil,Syrup,Oral Liquid,Drug,9.91,SUP005,No,Refrigerated
+MED0426,Zecuf* Herbal Cough Remedy,Syrup,Oral Liquid,Drug,5.9,SUP004,No,Refrigerated
+MED0427,Piostan 500Mg,Tablet,Oral Solid,Drug,13.64,SUP003,No,Room Temperature
+MED0428,Gentex Oint 3G,Ointment,Topical,Supply,3.21,SUP005,Yes,Cool & Dry
+MED0429,Paracetamol Injection,Injection,Injectable,Drug,62.57,SUP001,Yes,Room Temperature
+MED0430,Gabapentin 300Mg Hard,Capsule,Oral Solid,Drug,15.75,SUP001,No,Room Temperature
+MED0431,Dermacos Anti-Spot Gel,Cream,Topical,Supply,6.94,SUP011,Yes,Room Temperature
+MED0432,Fine`S Multivitamin Pectin Gummies,Lozenge,Oral Solid,Drug,9.37,SUP011,Yes,Room Temperature
+MED0433,White Gel 150Ml,Gel,Topical,Supply,9.51,SUP013,Yes,Room Temperature
+MED0434,Babe Anti-Wrinkle Lifting Cream 50Ml,Cream,Topical,Supply,38.44,SUP007,Yes,Cool & Dry
+MED0435,Bioderma Sebium Hydra  Te 40Ml,Cream,Topical,Supply,22.16,SUP002,No,Room Temperature
+MED0436,Anti-Aging Collagen + Vitamin C,Tablet,Oral Solid,Supply,2.43,SUP006,Yes,Refrigerated
+MED0437,Santekvin 0.15 G,Suppository,Suppository,Drug,7.99,SUP008,No,Cool & Dry
+MED0438,Multi-Gyn Liquigel  30Ml,Cream,Topical,Drug,34.39,SUP013,No,Room Temperature
+MED0439,Aspetax Protect Adipharm 75Mg,Tablet,Oral Solid,Drug,9.94,SUP015,No,Room Temperature
+MED0440,Neomercazole 5Mg Amdipharm,Tablet,Oral Solid,Drug,16.33,SUP003,No,Room Temperature
+MED0441,Anestocaine 0.5% 10Ml Eye Drop,Drop,Oral Liquid,Supply,12.68,SUP008,No,Refrigerated
+MED0442,Regen-Sil 15G,Gel,Topical,Supply,39.55,SUP011,No,Room Temperature
+MED0443,Bronkovent Zynova,Syrup,Oral Liquid,Drug,11.53,SUP007,No,Room Temperature
+MED0444,Castolax,Capsule,Oral Solid,Drug,19.08,SUP009,No,Room Temperature
+MED0445,Isotroin-20 Tab30,Tablet,Oral Solid,Drug,17.99,SUP003,No,Room Temperature
+MED0446,Ivypect Cough,Syrup,Oral Liquid,Drug,11.8,SUP010,No,Refrigerated
+MED0447,Fluocort 5Ml 0.1%,Ear Drop,Ear,Drug,15.79,SUP008,No,Refrigerated
+MED0448,Ciptadine  4Mg,Tablet,Oral Solid,Drug,10.84,SUP013,Yes,Refrigerated
+MED0449,Svr  Clairial Serum  30Ml,Serum,Topical,Supply,33.73,SUP006,No,Room Temperature
+MED0450,3 Days Show Slimming,Cream,Topical,Supply,23.27,SUP002,No,Room Temperature
+MED0451,Solifas 5Mg,Tablet,Oral Solid,Drug,18.1,SUP015,Yes,Room Temperature
+MED0452,Uvamin Retard 100Mg,Capsule,Oral Solid,Drug,15.26,SUP005,Yes,Cool & Dry
+MED0453,Movicol 13.8G 20Sachet,Sachet,Oral Solid,Supply,10.28,SUP008,No,Refrigerated
+MED0454,Captafer Or Kabtafer Plus,Tablet,Oral Solid,Drug,6.3,SUP005,Yes,Room Temperature
+MED0455,Marine Collagen 60Cap,Capsule,Oral Solid,Drug,6.07,SUP004,No,Cool & Dry
+MED0456,Momecon,Lotion,Topical,Drug,26.59,SUP012,Yes,Room Temperature
+MED0457,Uriage Cold Cream 100Ml,Cream,Topical,Supply,31.34,SUP010,Yes,Refrigerated
+MED0458,Trisequens 28Tab,Tablet,Oral Solid,Drug,11.14,SUP008,No,Room Temperature
+MED0459,Johnson Baby Shampoo 200Ml,Shampoo,Personal Care,Supply,19.55,SUP005,Yes,Room Temperature
+MED0460,Pectol Orange,Tablet,Oral Solid,Drug,6.58,SUP003,No,Room Temperature
+MED0461,Uciderm-B Cream,Cream,Topical,Drug,5.87,SUP010,No,Refrigerated
+MED0462,Diclowal S 25Mg,Capsule,Oral Solid,Drug,6.79,SUP003,No,Refrigerated
+MED0463,Neo Healar Oint,Ointment,Topical,Drug,13.05,SUP006,No,Cool & Dry
+MED0464,Neurorubine M,Injection,Injectable,Drug,32.38,SUP001,Yes,Room Temperature
+MED0465,Concor 5Mg,Tablet,Oral Solid,Drug,11.49,SUP002,No,Room Temperature
+MED0466,Pectol Lemon,Tablet,Oral Solid,Drug,4.06,SUP001,No,Room Temperature
+MED0467,Lumecare Singles Lubricant Eye Gel,Eye Drop,Ophthalmic,Drug,14.24,SUP014,Yes,Refrigerated
+MED0468,"Babe Oil Soap With Omega ,6 And 9",Spray,Respiratory,Supply,30.21,SUP006,No,Refrigerated
+MED0469,Predone 15Mg/5Ml,Syrup,Oral Liquid,Supply,13.3,SUP009,No,Room Temperature
+MED0470,Julmentin  312Mg,Syrup,Oral Liquid,Drug,3.03,SUP008,No,Cool & Dry
+MED0471,Ribosan,Syrup,Oral Liquid,Drug,8.52,SUP006,No,Refrigerated
+MED0472,Hemafer In Single Dose,Solution,Oral Liquid,Drug,10.68,SUP003,Yes,Refrigerated
+MED0473,Emollent 200Ml,Cream,Topical,Supply,18.38,SUP006,No,Room Temperature
+MED0474,Dadosens Dry Senstive,Ointment,Topical,Supply,10.65,SUP014,Yes,Room Temperature
+MED0475,Avene Cleanance 30Spf,Cream,Topical,Supply,18.55,SUP012,No,Cool & Dry
+MED0476,Aircomb 5/10Mg,Tablet,Oral Solid,Drug,18.24,SUP007,No,Refrigerated
+MED0477,Pigmolite Soap,Soap,Personal Care,Supply,18.35,SUP009,Yes,Refrigerated
+MED0478,Shagul Med 3M*5Cm,Patch,Transdermal,Supply,42.82,SUP001,Yes,Cool & Dry
+MED0479,Doloraz 400Mg,Capsule,Oral Solid,Drug,17.35,SUP011,No,Refrigerated
+MED0480,Quadriderm,Cream,Topical,Drug,31.33,SUP007,No,Room Temperature
+MED0481,Parazar Flu,Tablet,Oral Solid,Drug,8.54,SUP011,No,Cool & Dry
+MED0482,Ginfast  45G,Tablet,Oral Solid,Drug,1.61,SUP006,No,Room Temperature
+MED0483,Fertile Man 30Cap,Capsule,Oral Solid,Drug,8.01,SUP007,Yes,Refrigerated
+MED0484,Colevit D3 1000Iu,Tablet,Oral Solid,Drug,15.44,SUP003,No,Room Temperature
+MED0485,Milk Basil Element 150Ml,Spray,Respiratory,Drug,35.31,SUP006,No,Room Temperature
+MED0486,Bet Lotion 30Ml,Lotion,Topical,Drug,38.28,SUP010,No,Cool & Dry
+MED0487,Isocor 10Mg,Capsule,Oral Solid,Drug,9.25,SUP014,No,Refrigerated
+MED0488,Sulphur 2% Soap Vitamin E& Allentation,Soap,Personal Care,Supply,22.93,SUP013,Yes,Room Temperature
+MED0489,Pellevita Acne 50Ml,Cream,Topical,Drug,23.21,SUP001,No,Room Temperature
+MED0490,Bioderma Sensibio Eye,Gel,Topical,Supply,25.32,SUP011,Yes,Cool & Dry
+MED0491,Collagene Triple Action Liquid,Syrup,Oral Liquid,Drug,5.53,SUP005,Yes,Cool & Dry
+MED0492,Rinosaltin Sodium Chloride 0.65% -20Ml,Drop,Oral Liquid,Supply,5.51,SUP006,No,Room Temperature
+MED0493,Penaten Shampoo 400Ml,Shampoo,Personal Care,Supply,14.2,SUP010,Yes,Room Temperature
+MED0494,Ensure Large 850G,Milk Formula,Oral Liquid,Supply,2.46,SUP013,Yes,Refrigerated
+MED0495,Cialis 20Mg,Tablet,Oral Solid,Drug,7.72,SUP010,No,Room Temperature
+MED0496,Omnic Ocas 0.4Mg,Tablet,Oral Solid,Drug,14.06,SUP001,Yes,Refrigerated
+MED0497,Cefix 200Mg,Capsule,Oral Solid,Drug,8.98,SUP015,Yes,Room Temperature
+MED0498,Rodogyl,Tablet,Oral Solid,Drug,4.55,SUP009,No,Cool & Dry
+MED0499,Paracetamol 16 Tab Uk,Tablet,Oral Solid,Drug,10.15,SUP001,Yes,Room Temperature
+MED0500,Lipanthyl 200Mg Red,Capsule,Oral Solid,Drug,3.86,SUP012,Yes,Refrigerated
+MED0501,Svr  Sensifine Creme 40Ml,Cream,Topical,Supply,26.02,SUP012,No,Cool & Dry
+MED0502,Derma-T Solution 30Ml,Solution,Oral Liquid,Supply,2.43,SUP012,Yes,Cool & Dry
+MED0503,Stop Akn Purifying Cleansing Gel  200Ml,Gel,Topical,Supply,17.58,SUP003,Yes,Cool & Dry
+MED0504,Acnonil -0.025% 30G,Gel,Topical,Drug,23.88,SUP008,No,Room Temperature
+MED0505,Para-Denk 125Mg,Suppository,Suppository,Drug,4.43,SUP002,No,Cool & Dry
+MED0506,Bone Support Calcium 900 Mg + Vitamin D3,Tablet,Oral Solid,Supply,13.39,SUP015,Yes,Refrigerated
+MED0507,L-Cet,Tablet,Oral Solid,Drug,4.01,SUP002,No,Room Temperature
+MED0508,Svr Topialyse Baume Intensif  Anti-Recidive  200Ml,Cream,Topical,Supply,20.08,SUP003,Yes,Cool & Dry
+MED0509,Deep Sleep 60Gummy,Lozenge,Oral Solid,Drug,2.43,SUP003,No,Room Temperature
+MED0510,Adva-D3 5000 Iu,Capsule,Oral Solid,Drug,8.51,SUP002,No,Refrigerated
+MED0511,Vit E400 Hi Pirity,Capsule,Oral Solid,Drug,5.42,SUP009,No,Room Temperature
+MED0512,Zahra 21Tab,Tablet,Oral Solid,Drug,7.55,SUP003,No,Refrigerated
+MED0513,Vesicare 5Mg,Tablet,Oral Solid,Drug,15.58,SUP012,Yes,Room Temperature
+MED0514,Hydroxy Cut Hardcore Elite,Powder,Dermatology,Drug,12.58,SUP004,Yes,Room Temperature
+MED0515,Bioderma White Objective Moussant  200Ml,Lotion,Topical,Supply,30.82,SUP002,Yes,Room Temperature
+MED0516,Zeta  15G,Ointment,Topical,Drug,33.78,SUP013,Yes,Refrigerated
+MED0517,Benzac Ac %5 60G,Cream,Topical,Supply,12.33,SUP006,No,Room Temperature
+MED0518,Quenil 200Mg,Tablet,Oral Solid,Drug,3.02,SUP006,No,Room Temperature
+MED0519,Referum 50Mg/ 5Ml,Syrup,Oral Liquid,Drug,2.31,SUP006,Yes,Room Temperature
+MED0520,Fat Burner,Powder,Dermatology,Drug,15.79,SUP002,Yes,Room Temperature
+MED0521,Cystiphone Biorga Anti-Pelliculaire Intensif Ds,Shampoo,Personal Care,Supply,30,SUP007,Yes,Room Temperature
+MED0522,Svr Sebiaclear Gel Moussant  200Ml,Gel,Topical,Supply,15.95,SUP006,Yes,Refrigerated
+MED0523,Noxen 500Mg 30Tab,Tablet,Oral Solid,Drug,13.53,SUP013,No,Refrigerated
+MED0524,Methotrexate 10Mg 1Vial,Injection,Injectable,Supply,64.69,SUP002,No,Room Temperature
+MED0525,Diamicron Mr 60Mg اصلي,Tablet,Oral Solid,Drug,13.56,SUP008,No,Refrigerated
+MED0526,Hyseac  Pain Dermatologique  100G,Soap,Personal Care,Supply,23.12,SUP007,No,Room Temperature
+MED0527,Ice Power Roll Cold Gel,Cream,Topical,Supply,38.14,SUP009,No,Cool & Dry
+MED0528,Xeracalm A.D   200Ml,Cream,Topical,Supply,10.38,SUP001,No,Cool & Dry
+MED0529,Elidel %1 Krem,Cream,Topical,Drug,3.75,SUP009,No,Refrigerated
+MED0530,Tamoxifen   20Mg,Tablet,Oral Solid,Drug,4.32,SUP007,Yes,Room Temperature
+MED0531,Ferrodep,Capsule,Oral Solid,Drug,3.84,SUP011,No,Room Temperature
+MED0532,Psoriane Shampoo Intensif 125Ml,Shampoo,Personal Care,Supply,20.74,SUP013,No,Refrigerated
+MED0533,Avocom 0.1% Cream,Cream,Topical,Supply,23.87,SUP007,No,Room Temperature
+MED0534,Prebiotic For Healthy Bowel Movement,Lozenge,Oral Solid,Drug,5.53,SUP012,No,Refrigerated
+MED0535,Svr  Hydracid C20 Creme 30Ml,Cream,Topical,Supply,28.88,SUP003,No,Room Temperature
+MED0536,Metazolawa 500Mg,Tablet,Oral Solid,Drug,15.69,SUP009,No,Room Temperature
+MED0537,Ovumix,Suppository,Suppository,Drug,6.68,SUP014,Yes,Cool & Dry
+MED0538,Doxycycline-Belmed 100Mg,Tablet,Oral Solid,Drug,12.73,SUP002,Yes,Cool & Dry
+MED0539,Aciclovir 400 Mg,Tablet,Oral Solid,Drug,15.34,SUP014,No,Cool & Dry
+MED0540,Actipur Mousse Dermo 150Ml,Spray,Respiratory,Supply,11.67,SUP004,Yes,Refrigerated
+MED0541,Momaderm Cream 30G 0.1%,Cream,Topical,Drug,33.31,SUP008,No,Refrigerated
+MED0542,Benta D 10000,Tablet,Oral Solid,Drug,19.35,SUP003,No,Cool & Dry
+MED0543,Oximal 15Mg 30Tab,Tablet,Oral Solid,Drug,3.5,SUP002,No,Cool & Dry
+MED0544,Awazitro 250Mg,Tablet,Oral Solid,Drug,1.98,SUP013,No,Cool & Dry
+MED0545,L-Thyroxin 50 Berlin-Chemie,Tablet,Oral Solid,Drug,7.27,SUP015,No,Refrigerated
+MED0546,Lrp Anthelios Xl50+ Sensitive Eyes Innovation,Cream,Topical,Supply,28.06,SUP014,No,Room Temperature
+MED0547,Nogrippin 100Ml,Syrup,Oral Liquid,Supply,17.33,SUP005,No,Cool & Dry
+MED0548,Tamdus D 0.4/0.5 Mg,Capsule,Oral Solid,Drug,8.84,SUP004,No,Room Temperature
+MED0549,Zincomega 5Ml X 20 Spoons,Syrup,Oral Liquid,Drug,13.44,SUP004,Yes,Refrigerated
+MED0550,Scopinal,Tablet,Oral Solid,Drug,2.91,SUP001,No,Room Temperature
+MED0551,Dermacos Anti-Acne Gel,Gel,Topical,Supply,28.55,SUP011,Yes,Room Temperature
+MED0552,Troderm 10Mg/G+1Mg/G,Cream,Topical,Supply,26.21,SUP011,No,Cool & Dry
+MED0553,Panderm Cream 15G,Cream,Topical,Supply,6.77,SUP009,Yes,Room Temperature
+MED0554,Lavistina 16Mg,Tablet,Oral Solid,Drug,15.79,SUP001,Yes,Room Temperature
+MED0555,Ginkgo Biloba Complex,Tablet,Oral Solid,Drug,17.23,SUP001,Yes,Room Temperature
+MED0556,Betaloc Zok  50Mg,Tablet,Oral Solid,Drug,12.61,SUP011,No,Room Temperature
+MED0557,Depo-Medrol Vial 80Mg,Injection,Injectable,Drug,18.47,SUP014,Yes,Refrigerated
+MED0558,Foltene Strengthening For Thinning Hair For Men Shampoo,Shampoo,Personal Care,Supply,29.55,SUP012,Yes,Refrigerated
+MED0559,Anivagene Shampoo Women,Shampoo,Personal Care,Drug,23.91,SUP004,No,Room Temperature
+MED0560,Progesteron Depo 250Mg/Ml,Injection,Injectable,Supply,34.3,SUP008,Yes,Refrigerated
+MED0561,Air Doctor Pack,Suppository,Suppository,Drug,10.85,SUP001,No,Cool & Dry
+MED0562,Calmex,Syrup,Oral Liquid,Drug,7.93,SUP001,No,Room Temperature
+MED0563,Panto-Denk 20Mg,Tablet,Oral Solid,Supply,10.86,SUP004,Yes,Cool & Dry
+MED0564,Glucophage 1000Mg,Tablet,Oral Solid,Drug,7.81,SUP013,No,Cool & Dry
+MED0565,Aerius 5Mg Film Tablet T,Tablet,Oral Solid,Drug,17.22,SUP004,Yes,Cool & Dry
+MED0566,Phyllocontin,Tablet,Oral Solid,Drug,16.71,SUP003,No,Refrigerated
+MED0567,Amaryl 4 Mg,Tablet,Oral Solid,Drug,3.45,SUP014,No,Room Temperature
+MED0568,Gasec-40Mg,Capsule,Oral Solid,Drug,19.27,SUP003,No,Room Temperature
+MED0569,Allercet 10Mg,Tablet,Oral Solid,Drug,13.26,SUP009,No,Room Temperature
+MED0570,Seroflo 250,Inhaler,Respiratory,Drug,34.52,SUP006,Yes,Room Temperature
+MED0571,Panalife 500Mg,Tablet,Oral Solid,Drug,14.59,SUP006,Yes,Room Temperature
+MED0572,Maalox Plus,Tablet,Oral Solid,Drug,9.56,SUP007,No,Cool & Dry
+MED0573,Azavan 30Mg,Tablet,Oral Solid,Drug,15.08,SUP013,No,Room Temperature
+MED0574,Alarin 10Mg,Tablet,Oral Solid,Drug,19.36,SUP011,No,Room Temperature
+MED0575,Amlodipine 5Mg,Tablet,Oral Solid,Drug,6.5,SUP011,No,Room Temperature
+MED0576,Zinoral,Shampoo,Personal Care,Supply,24.63,SUP007,Yes,Room Temperature
+MED0577,Montal 10Mg Tab,Tablet,Oral Solid,Drug,11.46,SUP001,No,Room Temperature
+MED0578,Edolfene 5Ml  0.03%,Eye Drop,Ophthalmic,Drug,21.05,SUP009,No,Room Temperature
+MED0579,Munderm Jel 30G,Ointment,Topical,Drug,19.12,SUP013,No,Refrigerated
+MED0580,Gabatrex 300Mg,Capsule,Oral Solid,Drug,15.02,SUP005,Yes,Cool & Dry
+MED0581,Clafen 100Mg,Suppository,Suppository,Drug,8.29,SUP008,Yes,Room Temperature
+MED0582,Flamex 200Mg  3Sheet,Capsule,Oral Solid,Drug,17.26,SUP001,Yes,Refrigerated
+MED0583,Ketro Injection 10Amp,Injection,Injectable,Drug,68.15,SUP011,No,Room Temperature
+MED0584,Bepanthen 30G,Cream,Topical,Drug,6.21,SUP012,No,Room Temperature
+MED0585,Foli-Max 30Tab,Tablet,Oral Solid,Drug,17.81,SUP012,No,Room Temperature
+MED0586,B-6 100Mg,Tablet,Oral Solid,Drug,6.01,SUP007,No,Room Temperature
+MED0587,Magnesium 250Mg,Capsule,Oral Solid,Supply,10.1,SUP009,No,Room Temperature
+MED0588,Fefol,Capsule,Oral Solid,Drug,12.79,SUP002,No,Room Temperature
+MED0589,Paracetol Sdi  Iraqi,Tablet,Oral Solid,Drug,8.51,SUP001,No,Room Temperature
+MED0590,Kin Gingiva 0.12%   250Ml,Mouthwash,Personal Care,Supply,2.8,SUP004,No,Room Temperature
+MED0591,Kelonil Scar Gel,Gel,Topical,Drug,34.49,SUP010,Yes,Cool & Dry
+MED0592,Micogal 100Mg,Tablet,Oral Solid,Drug,4.86,SUP001,No,Cool & Dry
+MED0593,Klaminawa 4 Awamedica,Tablet,Oral Solid,Drug,5.42,SUP004,Yes,Cool & Dry
+MED0594,Anivagene Vials Fortifying For Hair,Injection,Injectable,Drug,65.85,SUP004,No,Room Temperature
+MED0595,Zyloric 100Mg  100 Tab,Tablet,Oral Solid,Drug,7.8,SUP010,Yes,Room Temperature
+MED0596,Torix 90Mg,Tablet,Oral Solid,Drug,17.79,SUP008,No,Room Temperature
+MED0597,Proibs (Brand),Sachet,Oral Solid,Drug,14.47,SUP001,No,Cool & Dry
+MED0598,Imunor Colostrum With Lactoferrin,Capsule,Oral Solid,Drug,6.61,SUP006,No,Room Temperature
+MED0599,Uciderm Cream,Cream,Topical,Drug,3.38,SUP012,Yes,Cool & Dry
+MED0600,Zitroneer 500,Tablet,Oral Solid,Drug,19.04,SUP002,No,Room Temperature
+MED0601,Flavofort 1500,Tablet,Oral Solid,Drug,3.08,SUP010,No,Refrigerated
+MED0602,Aquasoft,Soap,Personal Care,Supply,22.16,SUP015,No,Room Temperature
+MED0603,Aprazole*-20,Capsule,Oral Solid,Drug,10.54,SUP006,No,Cool & Dry
+MED0604,Amitriptyline 10Mg,Tablet,Oral Solid,Drug,15.53,SUP009,Yes,Cool & Dry
+MED0605,Redex 5,Tablet,Oral Solid,Drug,14.28,SUP015,No,Room Temperature
+MED0606,Insect Repellent Cream,Cream,Topical,Supply,26.9,SUP014,Yes,Cool & Dry
+MED0607,Fencil  30Ml,Drop,Oral Liquid,Drug,9.85,SUP003,No,Refrigerated
+MED0608,Digestive Enzymes,Capsule,Oral Solid,Drug,16.17,SUP007,Yes,Room Temperature
+MED0609,Ashwagandha 30Cap,Capsule,Oral Solid,Drug,3.22,SUP004,Yes,Room Temperature
+MED0610,Fastum Gel,Gel,Topical,Drug,11.2,SUP003,Yes,Room Temperature
+MED0611,Oximal 7.5Mg Tab,Tablet,Oral Solid,Drug,14.3,SUP009,Yes,Room Temperature
+MED0612,Aminor 5Mg,Tablet,Oral Solid,Drug,7.16,SUP001,No,Room Temperature
+MED0613,Molurex Solution,Solution,Oral Liquid,Drug,11.3,SUP015,Yes,Room Temperature
+MED0614,Fusibact Cream 15Gm,Cream,Topical,Drug,20.51,SUP011,No,Room Temperature
+MED0615,Megamox 1Mg,Tablet,Oral Solid,Drug,11.32,SUP012,No,Room Temperature
+MED0616,Acyclovir 400 Mg,Tablet,Oral Solid,Drug,9.37,SUP010,No,Cool & Dry
+MED0617,Ducray Neoptide,Lotion,Topical,Supply,30.6,SUP005,No,Room Temperature
+MED0618,Adva-Forte Syrup 250Ml,Syrup,Oral Liquid,Drug,7.29,SUP005,No,Cool & Dry
+MED0619,Dibase 100.000 I.U./Ml,Solution,Oral Liquid,Supply,13.25,SUP009,No,Cool & Dry
+MED0620,Spirulina,Capsule,Oral Solid,Supply,6.51,SUP006,Yes,Room Temperature
+MED0621,B Complex With C,Tablet,Oral Solid,Drug,6.15,SUP009,No,Refrigerated
+MED0622,Piostan Lady  500Mg,Tablet,Oral Solid,Drug,3.73,SUP007,No,Room Temperature
+MED0623,Limenda 750Mg/200Mg,Ointment,Topical,Drug,10.13,SUP003,Yes,Room Temperature
+MED0624,Ruatine 20Mg,Capsule,Oral Solid,Drug,3.71,SUP014,No,Refrigerated
+MED0625,Radic Med  Anti Hair Loss Ampoule Treatment For Men,Injection,Injectable,Supply,47.51,SUP004,Yes,Room Temperature
+MED0626,Iroglob 28Mg,Tablet,Oral Solid,Drug,15.6,SUP013,No,Room Temperature
+MED0627,D3+K2 1000Iu+200Mcg,Capsule,Oral Solid,Drug,4.93,SUP010,No,Cool & Dry
+MED0628,Restamine 10Mg,Tablet,Oral Solid,Drug,5.5,SUP005,No,Room Temperature
+MED0629,Finasteride 5Mg Film Coated Tablet,Tablet,Oral Solid,Drug,10.46,SUP006,No,Room Temperature
+MED0630,Anivagene Shampoo Man,Shampoo,Personal Care,Drug,22.29,SUP004,No,Cool & Dry
+MED0631,Forxiga 10Mg Tab28,Tablet,Oral Solid,Drug,19.57,SUP006,No,Room Temperature
+MED0632,Ibuprofen-S Awa 100Ml,Syrup,Oral Liquid,Drug,10.39,SUP015,No,Refrigerated
+MED0633,Amoclan Bid 400Mg,Syrup,Oral Liquid,Drug,6.53,SUP005,No,Cool & Dry
+MED0634,Lypre 75Mg,Tablet,Oral Solid,Drug,3.36,SUP007,Yes,Room Temperature
+MED0635,Telmodep 80 /5 Mg,Tablet,Oral Solid,Drug,5.09,SUP002,No,Room Temperature
+MED0636,Ensure Complet 400G,Milk Formula,Oral Liquid,Supply,5.64,SUP011,No,Cool & Dry
+MED0637,Zamur 500Mg,Tablet,Oral Solid,Drug,4.82,SUP005,No,Refrigerated
+MED0638,Aspirin   75Mg,Tablet,Oral Solid,Drug,1.76,SUP008,No,Cool & Dry
+MED0639,Orvagil 500Mg 10 Pessaries Vaginal Use,Tablet,Oral Solid,Drug,11.38,SUP001,No,Cool & Dry
+MED0640,Cornex,Gel,Topical,Drug,13.15,SUP008,Yes,Refrigerated
+MED0641,Dexa Aiwa 8Mg/2Ml,Injection,Injectable,Drug,78.2,SUP010,No,Room Temperature
+MED0642,Sitavia Plus 50/1000Mg,Tablet,Oral Solid,Drug,11.74,SUP011,Yes,Refrigerated
+MED0643,Inhibidel,Tablet,Oral Solid,Drug,14.4,SUP011,No,Room Temperature
+MED0644,Entero-Stop,Tablet,Oral Solid,Drug,3.84,SUP009,No,Room Temperature
+MED0645,Priorin Tab,Tablet,Oral Solid,Drug,17.57,SUP013,No,Refrigerated
+MED0646,Lipikar Balm,Cream,Topical,Supply,21.16,SUP007,Yes,Refrigerated
+MED0647,Bioginko Plus 30Tab,Tablet,Oral Solid,Drug,17.65,SUP004,No,Cool & Dry
+MED0648,Eliza 120 Orlistat Bpi,Capsule,Oral Solid,Drug,12.12,SUP003,No,Room Temperature
+MED0649,Vitmin C,Tablet,Oral Solid,Drug,10.18,SUP002,No,Refrigerated
+MED0650,Babe Keratolytic Fluid 30 Ml,Cream,Topical,Supply,19.3,SUP001,Yes,Room Temperature
+MED0651,Biozinco Tab 50Mg,Tablet,Oral Solid,Drug,4.91,SUP007,No,Refrigerated
+MED0652,Loperamide Hcl  2Mg,Tablet,Oral Solid,Drug,2.45,SUP013,No,Cool & Dry
+MED0653,Kin Oro Denture,Toothpaste,Personal Care,Supply,28.35,SUP002,Yes,Cool & Dry
+MED0654,Spasmomen  40Mg,Tablet,Oral Solid,Drug,10.34,SUP012,No,Refrigerated
+MED0655,Aciclovir 800 Mg,Tablet,Oral Solid,Drug,16.71,SUP015,Yes,Cool & Dry
+MED0656,Adva - D3 1000 Iu 60  Capsule,Tablet,Oral Solid,Supply,8.91,SUP014,No,Cool & Dry
+MED0657,Erytosav H,Capsule,Oral Solid,Drug,2.87,SUP004,No,Room Temperature
+MED0658,Mr Gummy Mega Multi-Vitamin,Lozenge,Oral Solid,Drug,13.14,SUP004,No,Room Temperature
+MED0659,Norethisterone 5Mg,Tablet,Oral Solid,Drug,2.49,SUP013,No,Cool & Dry
+MED0660,Nosifol 30 Satchet,Sachet,Oral Solid,Drug,4.26,SUP010,No,Cool & Dry
+MED0661,Chromium 200Mg,Capsule,Oral Solid,Supply,11.91,SUP012,No,Refrigerated
+MED0662,Oilesen Forte 60Soft,Capsule,Oral Solid,Drug,7.12,SUP012,No,Refrigerated
+MED0663,Priorin Normal&Dry Shampoo,Shampoo,Personal Care,Supply,29.83,SUP005,No,Refrigerated
+MED0664,Collacaps 60Tab,Tablet,Oral Solid,Drug,3.69,SUP014,Yes,Room Temperature
+MED0665,Colona,Tablet,Oral Solid,Drug,15.64,SUP012,No,Refrigerated
+MED0666,Zamur 250Mg,Tablet,Oral Solid,Drug,12.72,SUP011,Yes,Cool & Dry
+MED0667,Co-Diovan 160/25 Mg,Tablet,Oral Solid,Drug,16.13,SUP004,No,Room Temperature
+MED0668,Muscadol,Tablet,Oral Solid,Drug,5.68,SUP015,No,Cool & Dry
+MED0669,Glucophage 500,Tablet,Oral Solid,Drug,11.17,SUP010,No,Refrigerated
+MED0670,Rosatinawa 20Mg,Tablet,Oral Solid,Drug,9.83,SUP014,Yes,Cool & Dry
+MED0671,Lisinopril 10Mg,Tablet,Oral Solid,Drug,9.69,SUP005,No,Room Temperature
+MED0672,Amoxicillin Capsules 500Mg Medreich,Capsule,Oral Solid,Drug,17.41,SUP006,No,Refrigerated
+MED0673,Ponstan Forte 500Mg,Tablet,Oral Solid,Drug,19.82,SUP008,No,Room Temperature
+MED0674,Ketosma Ketotifen 1Mg Lekhim,Tablet,Oral Solid,Drug,7.15,SUP001,No,Refrigerated
+MED0675,Fulica  Anti Hair Loss,Shampoo,Personal Care,Supply,19.39,SUP011,No,Room Temperature
+MED0676,Kids Appetite Booster 150Ml Sanovisto,Syrup,Oral Liquid,Drug,11.75,SUP011,No,Room Temperature
+MED0677,Zinc 50Mg,Capsule,Oral Solid,Drug,15.19,SUP004,No,Cool & Dry
+MED0678,Nautisol 5 Mg,Tablet,Oral Solid,Drug,19.03,SUP010,Yes,Refrigerated
+MED0679,Stugeron 25Mg,Tablet,Oral Solid,Drug,5.34,SUP015,Yes,Room Temperature
+MED0680,Folic Plus Biofaktor 400Ug,Capsule,Oral Solid,Drug,5.4,SUP015,Yes,Room Temperature
+MED0681,"Selenium A,C, & E",Tablet,Oral Solid,Drug,13.72,SUP014,No,Room Temperature
+MED0682,Vitamin C Orange Flavour 20Eff,Tablet,Oral Solid,Drug,4.41,SUP005,No,Room Temperature
+MED0683,Trimoks Forte,Tablet,Oral Solid,Drug,4.72,SUP004,No,Cool & Dry
+MED0684,Nidazole 200 Mg,Syrup,Oral Liquid,Drug,3.2,SUP009,No,Room Temperature
+MED0685,Talimus 0.1%,Ointment,Topical,Drug,3.1,SUP001,Yes,Room Temperature
+MED0686,D`Acne  I20,Tablet,Oral Solid,Drug,9.83,SUP005,No,Refrigerated
+MED0687,Alcohol %70 Solution  Shin,Solution,Oral Liquid,Supply,11.5,SUP001,No,Room Temperature
+MED0688,Calcicare,Tablet,Oral Solid,Drug,6.89,SUP004,Yes,Room Temperature
+MED0689,Babe Anti-Hairloss 250Ml,Shampoo,Personal Care,Supply,8.48,SUP014,No,Room Temperature
+MED0690,Winex 400,Capsule,Oral Solid,Drug,14.58,SUP003,No,Room Temperature
+MED0691,Principle Pregnancy 30Tab,Tablet,Oral Solid,Drug,14.51,SUP014,No,Cool & Dry
+MED0692,Pectol Fresh Eucalyptus+C,Lozenge,Oral Solid,Drug,9.9,SUP006,No,Room Temperature
+MED0693,Anti-Strech 200Ml,Cream,Topical,Supply,28.43,SUP004,No,Cool & Dry
+MED0694,Mygesic 450Mg /35Mg,Tablet,Oral Solid,Drug,18.59,SUP008,No,Room Temperature
+MED0695,Conceive Plus+Lubricant,Suppository,Suppository,Drug,16.61,SUP012,No,Refrigerated
+MED0696,Q1 Plus  Tab,Tablet,Oral Solid,Drug,13.06,SUP007,No,Room Temperature
+MED0697,Gestophil 400Mg,Suppository,Suppository,Drug,14.58,SUP012,Yes,Room Temperature
+MED0698,Imilin 25Mg Tab,Tablet,Oral Solid,Drug,18.77,SUP006,No,Refrigerated
+MED0699,Itraderma 100Mg,Capsule,Oral Solid,Supply,9.37,SUP008,Yes,Room Temperature
+MED0700,Babe Anti-Ageing Eye Contour,Cream,Topical,Supply,23.15,SUP007,Yes,Room Temperature
+MED0701,Etorixan 90 Mg  Maddox,Tablet,Oral Solid,Drug,13.48,SUP010,Yes,Refrigerated
+MED0702,Progucy 30Cap,Capsule,Oral Solid,Drug,18.31,SUP013,No,Cool & Dry
+MED0703,Cytotec 200Mg 60 Tab.,Tablet,Oral Solid,Drug,16.79,SUP003,No,Cool & Dry
+MED0704,Olopat,Eye Drop,Ophthalmic,Drug,9.93,SUP015,Yes,Refrigerated
+MED0705,Dostinex  0.5 Mg Italy  8 Tab,Tablet,Oral Solid,Drug,4.57,SUP008,No,Room Temperature
+MED0706,Zomax  22.5Ml,Syrup,Oral Liquid,Drug,6.92,SUP008,Yes,Refrigerated
+MED0707,Daily Wash Plus,Suppository,Suppository,Drug,15.98,SUP009,No,Refrigerated
+MED0708,Liptomama Milk,Milk Formula,Oral Liquid,Supply,11.11,SUP010,Yes,Refrigerated
+MED0709,Koflet,Syrup,Oral Liquid,Drug,6.62,SUP005,No,Room Temperature
+MED0710,Urostab (Refuced Barcod),Sachet,Oral Solid,Drug,3.8,SUP013,No,Refrigerated
+MED0711,Flutafarm 0.25G,Tablet,Oral Solid,Drug,14.24,SUP011,No,Cool & Dry
+MED0712,Raham-Zinc 50 Mg,Tablet,Oral Solid,Drug,14.45,SUP014,No,Room Temperature
+MED0713,Endogen Hp 150 Iu Vial,Injection,Injectable,Drug,75.99,SUP004,No,Cool & Dry
+MED0714,Zyloric-300,Tablet,Oral Solid,Drug,10.76,SUP002,No,Room Temperature
+MED0715,Fusylin Ointment 2%,Ointment,Topical,Drug,21.27,SUP010,No,Room Temperature
+MED0716,Link 5Mg,Tablet,Oral Solid,Drug,2.99,SUP002,No,Cool & Dry
+MED0717,Ip-Kojic Skin Line,Cream,Topical,Supply,4.47,SUP015,Yes,Cool & Dry
+MED0718,Topidic 2% Ointment,Ointment,Topical,Drug,18.99,SUP001,No,Room Temperature
+MED0719,Amoklavin-Bid 1000Mg,Tablet,Oral Solid,Drug,7.46,SUP014,Yes,Room Temperature
+MED0720,Sunsafe  Acne-Fluid  Spf 50 Oil Free,Cream,Topical,Supply,12.26,SUP001,No,Room Temperature
+MED0721,Arnicagel 50Ml,Gel,Topical,Drug,6.38,SUP010,No,Refrigerated
+MED0722,Un Traceable Scar Aesthetic Cream 30Ml,Gel,Topical,Supply,38.59,SUP001,No,Room Temperature
+MED0723,Whiteplus-Whitening Cream,Cream,Topical,Supply,33.93,SUP014,Yes,Room Temperature
+MED0724,Epiduo,Cream,Topical,Drug,24.28,SUP001,No,Refrigerated
+MED0725,Zinc Plus 10Mg,Tablet,Oral Solid,Drug,19.09,SUP005,No,Refrigerated
+MED0726,Vermox Suspention,Syrup,Oral Liquid,Drug,17.99,SUP015,Yes,Room Temperature
+MED0727,Nutravit Multivitamin Yummy Pectin Gummy,Lozenge,Oral Solid,Drug,13.94,SUP001,No,Cool & Dry
+MED0728,Telfast 180Mg,Tablet,Oral Solid,Drug,6.49,SUP005,No,Refrigerated
+MED0729,Shlaf Gut Syup Melatonin,Syrup,Oral Liquid,Drug,2.64,SUP008,No,Cool & Dry
+MED0730,Minoxidil 6.5% Hair  For Men,Spray,Respiratory,Supply,32.2,SUP007,No,Room Temperature
+MED0731,My Sunscreen Cream Kids Spf 50,Cream,Topical,Supply,20.41,SUP012,No,Room Temperature
+MED0732,Aspirin Protect 100,Tablet,Oral Solid,Drug,13.55,SUP010,No,Room Temperature
+MED0733,Fertility Plus For Women,Capsule,Oral Solid,Drug,18.45,SUP003,Yes,Room Temperature
+MED0734,Fertilhelp For Men Ultra,Capsule,Oral Solid,Drug,4.86,SUP002,No,Refrigerated
+MED0735,Capilare,Capsule,Oral Solid,Drug,12.33,SUP001,No,Cool & Dry
+MED0736,Prex 75 Mg,Capsule,Oral Solid,Drug,13.24,SUP006,No,Room Temperature
+MED0737,Kenda Kids Chocolate Milk 3-10 Ages,Milk Formula,Oral Liquid,Supply,9.87,SUP004,No,Cool & Dry
+MED0738,Cipox 750 Mg 14 Tab,Tablet,Oral Solid,Drug,3.19,SUP011,Yes,Room Temperature
+MED0739,Medroxyprogesterone 5,Tablet,Oral Solid,Drug,7.94,SUP004,Yes,Room Temperature
+MED0740,Omathrocin 200Mg 100Ml,Syrup,Oral Liquid,Drug,7.33,SUP007,No,Room Temperature
+MED0741,Feminine Foaming Clean -Alpha,Foam,Topical,Drug,27.79,SUP012,No,Room Temperature
+MED0742,Aphrofem,Capsule,Oral Solid,Drug,17.37,SUP015,Yes,Refrigerated
+MED0743,Melatonin+Vit B6 Cap,Capsule,Oral Solid,Drug,7.6,SUP006,No,Room Temperature
+MED0744,Ironweser Syrup,Syrup,Oral Liquid,Drug,13.1,SUP002,No,Cool & Dry
+MED0745,Pellevita Urea 100Ml,Cream,Topical,Supply,13.66,SUP005,No,Cool & Dry
+MED0746,Boroplus Foot Cream 50Ml,Syrup,Oral Liquid,Drug,17.12,SUP007,No,Refrigerated
+MED0747,Alcoho Bawardia  Anti Septic,Spray,Respiratory,Supply,34.03,SUP011,No,Refrigerated
+MED0748,Svr  Sebiaclear Creme Spf 50 Uvb+Uva  50Ml,Cream,Topical,Supply,23.35,SUP001,No,Refrigerated
+MED0749,Sebium Global 30Ml,Cream,Topical,Supply,19.83,SUP005,No,Room Temperature
+MED0750,Perobar %2.5,Soap,Personal Care,Supply,10.81,SUP013,No,Cool & Dry
+MED0751,Sunsafe Anti-Ageing Spf 50+,Cream,Topical,Supply,14.96,SUP001,No,Room Temperature
+MED0752,Pro-Zinc 50,Tablet,Oral Solid,Drug,19.45,SUP015,Yes,Room Temperature
+MED0753,Adapalene And Benzoyl Peroxide Gel,Gel,Topical,Drug,17.95,SUP002,No,Room Temperature
+MED0754,Pigmentclar For Eye15Ml,Cream,Topical,Supply,22.04,SUP005,No,Room Temperature
+MED0755,Sun Line Ip- Block Acne Spf 50,Cream,Topical,Supply,39.56,SUP003,No,Room Temperature
+MED0756,Activecaine 5%,Ointment,Topical,Drug,27.33,SUP005,Yes,Refrigerated
+MED0757,Dermodin Oint,Ointment,Topical,Drug,23.08,SUP008,No,Refrigerated
+MED0758,Vitamin D3 5000Iu Sensilab,Capsule,Oral Solid,Drug,9.15,SUP015,Yes,Room Temperature
+MED0759,Prednabene  15Mg/5Ml   100Ml,Syrup,Oral Liquid,Drug,5,SUP015,Yes,Room Temperature
+MED0760,Chloramics 1% Eye Oint,Eye Ointment,Ophthalmic,Drug,17.77,SUP015,Yes,Room Temperature
+MED0761,Sentry 30Tab,Tablet,Oral Solid,Drug,15.49,SUP013,No,Room Temperature
+MED0762,Anis Tar 200Ml,Shampoo,Personal Care,Supply,19.51,SUP015,No,Room Temperature
+MED0763,Prednisolone 5Mg Wockhard,Tablet,Oral Solid,Drug,15.56,SUP004,Yes,Room Temperature
+MED0764,Noreva  Exfoliac Global,Cream,Topical,Supply,10.53,SUP002,No,Cool & Dry
+MED0765,Vaseline Rosy Lips,Cream,Topical,Supply,23.32,SUP015,Yes,Room Temperature
+MED0766,Rozycal D3,Tablet,Oral Solid,Drug,18.66,SUP011,No,Cool & Dry
+MED0767,Supirocin 15G,Ointment,Topical,Drug,19.21,SUP012,No,Room Temperature
+MED0768,Rhini Care Rhinitis Relif Nasl Spary Adva Care,Nasal Spray,Nasal,Drug,18.97,SUP011,No,Refrigerated
+MED0769,Wellmore Banana Kids Growth Formula,Sachet,Oral Solid,Drug,3.75,SUP013,No,Room Temperature
+MED0770,Dolo-650Mg,Tablet,Oral Solid,Drug,19.5,SUP001,No,Refrigerated
+MED0771,Hydroderm Arbutin,Cream,Topical,Supply,25.53,SUP015,No,Refrigerated
+MED0772,Cambidel Capsule,Tablet,Oral Solid,Drug,5.93,SUP015,No,Refrigerated
+MED0773,Sunlyte 21.8 Ors Orange Flavour,Powder,Dermatology,Drug,8.17,SUP015,No,Refrigerated
+MED0774,Uveblock Spf 30 Dry Touch 40 Ml,Cream,Topical,Supply,23.38,SUP008,Yes,Room Temperature
+MED0775,B-12 Mcg  30Tab,Tablet,Oral Solid,Drug,11.72,SUP003,No,Refrigerated
+MED0776,Awacand 16Mg,Tablet,Oral Solid,Drug,3.22,SUP001,Yes,Refrigerated
+MED0777,Diostar-Plus 160/12.5Mg,Tablet,Oral Solid,Drug,19.86,SUP002,Yes,Refrigerated
+MED0778,Feksine 180Mg,Tablet,Oral Solid,Drug,18.39,SUP002,Yes,Cool & Dry
+MED0779,Efudix 5% 20G,Cream,Topical,Drug,20.07,SUP012,Yes,Refrigerated
+MED0780,Oprazole 20Mg,Tablet,Oral Solid,Drug,3.67,SUP004,No,Refrigerated
+MED0781,Motilium 10Mg Janssen,Tablet,Oral Solid,Drug,16.89,SUP008,No,Room Temperature
+MED0782,Concor 2.5Mg,Tablet,Oral Solid,Drug,10.72,SUP014,No,Room Temperature
+MED0783,Htderm Hydra Tolerance 24H Cream,Cream,Topical,Drug,29.51,SUP015,Yes,Refrigerated
+MED0784,Zincoxawa 15%,Ointment,Topical,Drug,21.83,SUP010,Yes,Room Temperature
+MED0785,Octa Care 9Cm*30Cm Code 21930,Patch,Transdermal,Supply,25.94,SUP012,No,Refrigerated
+MED0786,Adhesive Surgical 10*15,Patch,Transdermal,Supply,48.39,SUP009,No,Room Temperature
+MED0787,Ardeef Povidine Lodine %4,Spray,Respiratory,Supply,39.37,SUP005,No,Cool & Dry
+MED0788,Larius 5Mg,Tablet,Oral Solid,Drug,6.01,SUP005,No,Refrigerated
+MED0789,Kenda Kids Banana Milk 3-10 Ages,Milk Formula,Oral Liquid,Supply,10.82,SUP001,No,Cool & Dry
+MED0790,Fusidatawa 2%  15G,Ointment,Topical,Drug,17.19,SUP012,Yes,Refrigerated
+MED0791,Nutrigen Supra 13Vitamins +10Minerals,Syrup,Oral Liquid,Drug,16.75,SUP010,No,Room Temperature
+MED0792,Metoclopramide 10Mg,Tablet,Oral Solid,Drug,10.9,SUP008,No,Room Temperature
+MED0793,Sedamood 30 Cap,Capsule,Oral Solid,Drug,17.77,SUP002,No,Cool & Dry
+MED0794,A-Z Complettten,Tablet,Oral Solid,Drug,17.48,SUP012,No,Refrigerated
+MED0795,"Perfectil Skin ,Hair & Nails",Capsule,Oral Solid,Drug,6.61,SUP012,Yes,Cool & Dry
+MED0796,Laro Eat Plus Orange Chuclota,Powder,Dermatology,Drug,20.8,SUP003,Yes,Refrigerated
+MED0797,Vocort 15Mg,Cream,Topical,Drug,18.35,SUP004,No,Refrigerated
+MED0798,Kin Forte  500Ml,Mouthwash,Personal Care,Supply,28.16,SUP002,No,Cool & Dry
+MED0799,Vitamin D3 5000 Iu,Capsule,Oral Solid,Drug,10.89,SUP007,Yes,Refrigerated
+MED0800,Contornia,Powder,Dermatology,Supply,21.41,SUP011,No,Room Temperature
+MED0801,Aquax -H Cream 30G,Cream,Topical,Drug,13.47,SUP007,Yes,Refrigerated
+MED0802,My Nourishing Aloe Vera,Cream,Topical,Supply,14.05,SUP001,Yes,Cool & Dry
+MED0803,Rinoraz,Syrup,Oral Liquid,Drug,11.39,SUP001,No,Room Temperature
+MED0804,Clairette 2000/35,Tablet,Oral Solid,Drug,19.98,SUP008,Yes,Room Temperature
+MED0805,Cabenex 0.5 Mg,Tablet,Oral Solid,Drug,10.56,SUP007,Yes,Room Temperature
+MED0806,Spotex,Gel,Topical,Drug,8.5,SUP014,No,Room Temperature
+MED0807,Sadol 1000 Mg,Tablet,Oral Solid,Drug,11.46,SUP008,Yes,Room Temperature
+MED0808,Mae Blackcurrant 7Day Pack 21*3G Sachets,Sachet,Oral Solid,Drug,7.88,SUP007,Yes,Room Temperature
+MED0809,Bioderma Sebium H2O 250Ml,Solution,Oral Liquid,Supply,10.83,SUP003,No,Room Temperature
+MED0810,Trisa Perfect White Toothpaste 75Ml,Toothpaste,Personal Care,Supply,17.22,SUP001,No,Cool & Dry
+MED0811,Doxafin   5Mg,Tablet,Oral Solid,Drug,9.92,SUP010,No,Room Temperature
+MED0812,Vaseline Intensive Care Advanced Repair Lotion,Lotion,Topical,Supply,14.91,SUP015,No,Room Temperature
+MED0813,Perfect Baby 3In1 300Ml Shampoo,Shampoo,Personal Care,Supply,7.28,SUP001,No,Room Temperature
+MED0814,Delia Cosmetics Anti-Wrinkle Firming,Cream,Topical,Supply,28.81,SUP011,No,Cool & Dry
+MED0815,Skin Line Ip-Vit C20,Cream,Topical,Supply,24.16,SUP002,Yes,Room Temperature
+MED0816,Rejuvenating %10 My Aha,Cream,Topical,Supply,11.64,SUP013,No,Cool & Dry
+MED0817,Alles 600Mg,Tablet,Oral Solid,Drug,15.85,SUP015,Yes,Refrigerated
+MED0818,Prednisolone - Darnitsa 5Mg,Tablet,Oral Solid,Drug,2.31,SUP005,No,Room Temperature
+MED0819,Sinerdol 300Mg,Capsule,Oral Solid,Drug,15.28,SUP012,No,Room Temperature
+MED0820,Derma Line Ip-Intensive Whitening Normal &Sensitive Skin,Cream,Topical,Supply,29.09,SUP005,Yes,Cool & Dry
+MED0821,Cefex-500,Capsule,Oral Solid,Drug,16.51,SUP012,No,Refrigerated
+MED0822,Pmol Fizz,Tablet,Oral Solid,Drug,8.64,SUP008,No,Refrigerated
+MED0823,Fructo Ve Gricar 14 Sticks,Sachet,Oral Solid,Drug,13.78,SUP004,No,Room Temperature
+MED0824,Co-Codamol 8Mg/500Mg Bristol,Tablet,Oral Solid,Drug,16.68,SUP013,No,Room Temperature
+MED0825,Pylokit,Capsule,Oral Solid,Drug,19.65,SUP005,No,Room Temperature
+MED0826,Virasorb,Cream,Topical,Drug,21.33,SUP001,Yes,Room Temperature
+MED0827,Erythromycin,Gel,Topical,Drug,4.37,SUP011,No,Cool & Dry
+MED0828,Zitoget 500Mg,Tablet,Oral Solid,Drug,10.79,SUP005,No,Cool & Dry
+MED0829,Zinc 60Tab,Tablet,Oral Solid,Drug,12.42,SUP014,Yes,Refrigerated
+MED0830,Imavir Eye Ointment,Eye Ointment,Ophthalmic,Drug,31.48,SUP004,No,Cool & Dry
+MED0831,Glow Max 30 Cap,Capsule,Oral Solid,Supply,17.67,SUP004,No,Room Temperature
+MED0832,Apmox-500,Capsule,Oral Solid,Drug,9.65,SUP012,No,Cool & Dry
+MED0833,Furaflu,Tablet,Oral Solid,Drug,11.23,SUP008,No,Cool & Dry
+MED0834,Axen 500Mg,Tablet,Oral Solid,Drug,9.95,SUP013,Yes,Cool & Dry
+MED0835,Ginsavit,Capsule,Oral Solid,Drug,14.87,SUP001,No,Room Temperature
+MED0836,Bn - Fibre Plus Colon Cleanse 60 Cap,Capsule,Oral Solid,Drug,9.08,SUP011,No,Room Temperature
+MED0837,Red Rings Starwabery 100Ml,Gel,Topical,Drug,27.23,SUP001,Yes,Cool & Dry
+MED0838,San Vitamin D3 30 Cap,Capsule,Oral Solid,Drug,4.36,SUP014,Yes,Refrigerated
+MED0839,Deha -25 Mg 90Cap,Capsule,Oral Solid,Drug,10.19,SUP010,No,Cool & Dry
+MED0840,Panthophil,Lotion,Topical,Supply,38.86,SUP014,No,Refrigerated
+MED0841,Vaseline Intensive Care Cocoa Radiant Lotion,Lotion,Topical,Supply,15.53,SUP014,Yes,Room Temperature
+MED0842,Trisa Complete Care Toothpaste 75Ml,Toothpaste,Personal Care,Supply,21.4,SUP007,No,Room Temperature
+MED0843,My Stop Damage Shampoo,Shampoo,Personal Care,Supply,20.2,SUP009,Yes,Room Temperature
+MED0844,Movilib 200Mg,Capsule,Oral Solid,Drug,17.26,SUP012,No,Refrigerated
+MED0845,Awanex 20,Capsule,Oral Solid,Drug,17.27,SUP008,No,Room Temperature
+MED0846,Bisacodyl 5Mg,Tablet,Oral Solid,Drug,17.4,SUP013,No,Room Temperature
+MED0847,Estrofem  2 Mg,Tablet,Oral Solid,Drug,8.53,SUP004,No,Room Temperature
+MED0848,Anivagene Shampoo For Dandruff 200Ml,Shampoo,Personal Care,Supply,10.87,SUP012,No,Refrigerated
+MED0849,Multivitamin Yummi-Yummi 150Pisc,Lozenge,Oral Solid,Supply,14.8,SUP014,Yes,Room Temperature
+MED0850,Evolac Premature,Milk Formula,Oral Liquid,Supply,14.15,SUP012,No,Room Temperature
+MED0851,Mera Anti-Spot,Cream,Topical,Supply,35.28,SUP001,No,Cool & Dry
+MED0852,Lulican Cream 30Gm,Cream,Topical,Drug,4.33,SUP005,No,Refrigerated
+MED0853,Lamicon Terbinafine 0.25G,Tablet,Oral Solid,Drug,2.77,SUP006,No,Room Temperature
+MED0854,Alban Plaster 10*10 Cm,Patch,Transdermal,Supply,40.25,SUP002,No,Refrigerated
+MED0855,Picam Gel,Gel,Topical,Drug,37.07,SUP010,No,Refrigerated
+MED0856,Acteday 35Mg,Tablet,Oral Solid,Drug,19.95,SUP006,No,Refrigerated
+MED0857,Ketomag 100Mg,Suppository,Suppository,Supply,15.95,SUP008,No,Cool & Dry
+MED0858,Primalac 1,Milk Formula,Oral Liquid,Supply,8.94,SUP014,No,Refrigerated
+MED0859,Crisplus 120Mg,Capsule,Oral Solid,Supply,3.32,SUP008,No,Room Temperature
+MED0860,Wuta Kamille Hand,Cream,Topical,Supply,26.45,SUP009,No,Refrigerated
+MED0861,Perfecta Elixir Multi-Collagen  Under Eye Cream,Cream,Topical,Supply,35.29,SUP003,No,Refrigerated
+MED0862,Fediquin  4% 30G,Cream,Topical,Drug,19.42,SUP006,No,Refrigerated
+MED0863,Clindacid - T 30Ml,Solution,Oral Liquid,Drug,13.1,SUP011,No,Room Temperature
+MED0864,Viacal-D3 Ams,Capsule,Oral Solid,Drug,18.21,SUP015,No,Room Temperature
+MED0865,Metoclopramide Injection P,Injection,Injectable,Drug,13.22,SUP006,No,Room Temperature
+MED0866,Sanoxon  1G  Iv,Injection,Injectable,Drug,65.73,SUP012,Yes,Room Temperature
+MED0867,Orly 120 Mg 30 Cap,Capsule,Oral Solid,Drug,6.93,SUP009,Yes,Cool & Dry
+MED0868,Biotell Shampoo Simple,Shampoo,Personal Care,Drug,12.5,SUP009,No,Cool & Dry
+MED0869,Bioderma Sebium Gel Gommant,Gel,Topical,Supply,8.39,SUP003,No,Room Temperature
+MED0870,Rennie,Tablet,Oral Solid,Drug,11.33,SUP006,Yes,Refrigerated
+MED0871,Otosan Gola Throat Spray Forte,Spray,Respiratory,Drug,26.11,SUP012,No,Room Temperature
+MED0872,Repoxol 500Mg+500Mg,Tablet,Oral Solid,Drug,16.16,SUP011,No,Cool & Dry
+MED0873,Adva-Zinc50Mg,Tablet,Oral Solid,Drug,4.64,SUP006,Yes,Cool & Dry
+MED0874,Samarin-18,Sachet,Oral Solid,Supply,2.96,SUP007,Yes,Refrigerated
+MED0875,Brilinta 90Mg,Tablet,Oral Solid,Drug,17.61,SUP003,No,Refrigerated
+MED0876,Travazol 15G,Cream,Topical,Drug,25.93,SUP010,No,Refrigerated
+MED0877,Megamox 625 Mg  Jpi,Tablet,Oral Solid,Drug,5.96,SUP007,Yes,Refrigerated
+MED0878,Indicardin 40,Tablet,Oral Solid,Drug,18.39,SUP006,Yes,Cool & Dry
+MED0879,Mondes 5/10Mg,Tablet,Oral Solid,Drug,4.15,SUP008,No,Room Temperature
+MED0880,Dewax,Ear Drop,Ear,Drug,11.92,SUP006,No,Cool & Dry
+MED0881,Betaci-C Drop Aci,Drop,Oral Liquid,Drug,6.06,SUP013,No,Room Temperature
+MED0882,Budenase Aq 64Mcg,Spray,Respiratory,Drug,16.17,SUP005,Yes,Room Temperature
+MED0883,Strong Cough 150Ml,Syrup,Oral Liquid,Drug,2.15,SUP003,No,Room Temperature
+MED0884,Candid V-1,Tablet,Oral Solid,Drug,16.39,SUP014,No,Room Temperature
+MED0885,Allopurinol 100Mg,Tablet,Oral Solid,Drug,18.17,SUP011,Yes,Refrigerated
+MED0886,Myogesic,Tablet,Oral Solid,Drug,14.04,SUP013,No,Room Temperature
+MED0887,Blopress 8Mg,Tablet,Oral Solid,Drug,4.42,SUP015,Yes,Room Temperature
+MED0888,Debant,Patch,Transdermal,Supply,32.67,SUP008,No,Cool & Dry
+MED0889,Secnidox 500Mg,Tablet,Oral Solid,Drug,7.89,SUP011,No,Room Temperature
+MED0890,Neo Healar,Suppository,Suppository,Drug,13.4,SUP009,No,Refrigerated
+MED0891,Fennolact,Tablet,Oral Solid,Drug,13.32,SUP007,No,Room Temperature
+MED0892,Folidide Bioactivet,Tablet,Oral Solid,Drug,9.35,SUP006,Yes,Room Temperature
+MED0893,Navidoxine,Tablet,Oral Solid,Drug,6.13,SUP007,Yes,Cool & Dry
+MED0894,Ultra Folic Plus,Tablet,Oral Solid,Drug,17.14,SUP002,No,Room Temperature
+MED0895,Lrp Anthelis Xl Spf 50 Tinted Dry Gel,Gel,Topical,Supply,10.37,SUP010,No,Refrigerated
+MED0896,Nitrotoin 50Mg Tab,Tablet,Oral Solid,Drug,8.62,SUP005,Yes,Cool & Dry
+MED0897,Genuine Male Sperm Active,Capsule,Oral Solid,Drug,10.44,SUP015,No,Room Temperature
+MED0898,Pregna Health 30Tab,Tablet,Oral Solid,Drug,5.89,SUP003,Yes,Refrigerated
+MED0899,Xarelto 20Mg Turkey,Tablet,Oral Solid,Drug,12.08,SUP006,Yes,Refrigerated
+MED0900,Arcoxia 60Mg,Tablet,Oral Solid,Drug,12.13,SUP015,No,Room Temperature
+MED0901,Norgesic Meda,Tablet,Oral Solid,Drug,19.86,SUP006,No,Cool & Dry
+MED0902,Signal +6 Tooth Paste,Toothpaste,Personal Care,Supply,10.27,SUP011,No,Room Temperature
+MED0903,Coamox--Mepha 1000,Tablet,Oral Solid,Drug,19.59,SUP008,No,Refrigerated
+MED0904,Erycytol Depot 1Mg/Ml Amp,Injection,Injectable,Drug,56.08,SUP008,Yes,Room Temperature
+MED0905,Vichy Narmaderm Phytosolution 200Ml,Gel,Topical,Supply,13.16,SUP013,No,Cool & Dry
+MED0906,Ferroway  200Ml,Syrup,Oral Liquid,Drug,11.05,SUP009,Yes,Room Temperature
+MED0907,Erythromycin 2% Gel Al- Gadeed,Gel,Topical,Drug,28.37,SUP014,Yes,Room Temperature
+MED0908,D-Day Long Vitamin D3,Capsule,Oral Solid,Drug,15.28,SUP011,No,Room Temperature
+MED0909,Merolab 1Gm I.V,Injection,Injectable,Drug,13.43,SUP003,Yes,Room Temperature
+MED0910,Curemed Disposable Infusion Set,Injection,Injectable,Supply,52.45,SUP015,No,Room Temperature
+MED0911,Gabapentin 300Mg Capsule,Capsule,Oral Solid,Drug,10.69,SUP001,No,Cool & Dry
+MED0912,Jey Cream,Cream,Topical,Supply,36.45,SUP006,No,Room Temperature
+MED0913,Liponeer 20Mg,Tablet,Oral Solid,Drug,6.79,SUP009,No,Refrigerated
+MED0914,Trisa Complete Care Advanced Formula Mouth Wash,Mouthwash,Personal Care,Supply,24.37,SUP015,No,Room Temperature
+MED0915,Nanogen Shampoo For Men 240Ml,Shampoo,Personal Care,Supply,19,SUP014,Yes,Cool & Dry
+MED0916,Bactiflox Neo 750Mg,Tablet,Oral Solid,Drug,8.02,SUP011,Yes,Room Temperature
+MED0917,Cetamyl 1000Mg 10Tabs,Tablet,Oral Solid,Drug,13.28,SUP003,No,Refrigerated
+MED0918,Vermox 100Mg,Tablet,Oral Solid,Drug,12.99,SUP010,No,Room Temperature
+MED0919,Tktx 35%,Ointment,Topical,Supply,28.08,SUP006,No,Room Temperature
+MED0920,Zeta-Cort 15G,Cream,Topical,Drug,29.67,SUP009,Yes,Refrigerated
+MED0921,Ams Omega-3 1000Mg,Capsule,Oral Solid,Drug,13.69,SUP011,No,Room Temperature
+MED0922,Minoxidil Spary 5% Turkey,Spray,Respiratory,Drug,34.83,SUP014,Yes,Refrigerated
+MED0923,Vitamin C 500Mg Advalife,Capsule,Oral Solid,Drug,13.12,SUP012,Yes,Cool & Dry
+MED0924,Dermoran Ointment,Ointment,Topical,Supply,36.43,SUP003,Yes,Cool & Dry
+MED0925,Vital Cure,Tablet,Oral Solid,Drug,13.46,SUP014,Yes,Refrigerated
+MED0926,Arden  Vitamin C 20  / 30 Gr,Cream,Topical,Supply,14.43,SUP013,No,Cool & Dry
+MED0927,Topicrem Ac Purifing & Cleansing Gel,Gel,Topical,Supply,19.31,SUP010,Yes,Cool & Dry
+MED0928,Prosta-Tab Pr 0.4Mg,Tablet,Oral Solid,Drug,12.22,SUP003,No,Room Temperature
+MED0929,Prolis 30Ml/Spray,Spray,Respiratory,Supply,31.44,SUP014,No,Room Temperature
+MED0930,Bonnisan,Drop,Oral Liquid,Drug,3.44,SUP013,Yes,Refrigerated
+MED0931,Isoplan 20Mg 30 Soft Capsules,Capsule,Oral Solid,Drug,6.96,SUP004,No,Cool & Dry
+MED0932,Ramoclav 625 Mg 10Tab,Tablet,Oral Solid,Drug,15.33,SUP014,No,Room Temperature
+MED0933,Metronix 500Mg 20Tab,Tablet,Oral Solid,Drug,4.75,SUP012,Yes,Refrigerated
+MED0934,Galvusmet 50/1000Mg Original,Tablet,Oral Solid,Drug,3.94,SUP007,Yes,Room Temperature
+MED0935,Colevit D3 25000 Iu   15Cap,Capsule,Oral Solid,Drug,11.48,SUP002,No,Room Temperature
+MED0936,Brufen   400Mg (Abbott),Tablet,Oral Solid,Drug,19.47,SUP014,No,Refrigerated
+MED0937,Sentry Materna 30 Tab 21 Century,Tablet,Oral Solid,Drug,11.32,SUP007,No,Refrigerated
+MED0938,Oramax 150Mg,Capsule,Oral Solid,Drug,18.4,SUP015,No,Room Temperature
+MED0939,Neuritis Injection For Im,Injection,Injectable,Drug,68.13,SUP002,No,Refrigerated
+MED0940,Wales Hand Sanitizer Sea Breeze,Gel,Topical,Supply,12.51,SUP009,No,Room Temperature
+MED0941,Vitamin D 10000 Iu,Tablet,Oral Solid,Drug,16.76,SUP009,Yes,Refrigerated
+MED0942,Blopress 16Mg,Tablet,Oral Solid,Drug,10.41,SUP001,No,Cool & Dry
+MED0943,Digoxin 125Mcg,Tablet,Oral Solid,Drug,16.42,SUP009,Yes,Cool & Dry
+MED0944,Mae Tangy Orange Flavour 7Day Pack 21*3G Sachets,Sachet,Oral Solid,Drug,15.31,SUP002,No,Room Temperature
+MED0945,E 400 I.U,Capsule,Oral Solid,Drug,7.77,SUP010,No,Refrigerated
+MED0946,Selenium 200Mcg  60Cap,Capsule,Oral Solid,Supply,3.63,SUP001,Yes,Room Temperature
+MED0947,Fertiplus Female,Capsule,Oral Solid,Drug,19.31,SUP005,No,Refrigerated
+MED0948,Oh Yes!,Cream,Topical,Drug,8.21,SUP015,Yes,Cool & Dry
+MED0949,Zinoximor 500Mg,Tablet,Oral Solid,Drug,19.38,SUP009,No,Room Temperature
+MED0950,Sure Cure,Gel,Topical,Drug,34.83,SUP011,No,Room Temperature
+MED0951,Panadol Cold & Flu Night,Tablet,Oral Solid,Drug,14.9,SUP003,No,Room Temperature
+MED0952,My Anti Acne Gel,Gel,Topical,Supply,39.26,SUP012,No,Cool & Dry
+MED0953,Doxy-Denk  100,Tablet,Oral Solid,Drug,19.39,SUP004,Yes,Cool & Dry
+MED0954,Z+20Mg Zinc,Tablet,Oral Solid,Drug,16.38,SUP011,Yes,Room Temperature
+MED0955,Inoself  30 Satchet,Sachet,Oral Solid,Drug,8.27,SUP012,No,Cool & Dry
+MED0956,Cicasilver,Spray,Respiratory,Drug,33.3,SUP013,No,Cool & Dry
+MED0957,Carvidilol 6.25 Mg Tab,Tablet,Oral Solid,Drug,1.76,SUP006,No,Room Temperature
+MED0958,Amoxicillin Atb  500Mg,Capsule,Oral Solid,Drug,11.43,SUP008,No,Room Temperature
+MED0959,Hair Skin & Nail,Tablet,Oral Solid,Drug,9.91,SUP002,No,Room Temperature
+MED0960,Dr.Lauranne Helio-C Media Protezione Cream,Cream,Topical,Supply,27.89,SUP006,No,Room Temperature
+MED0961,Pulmicort 0.5Mg/Ml,Solution,Oral Liquid,Drug,12.76,SUP012,No,Refrigerated
+MED0962,Kenalog In Orabase,Gel,Topical,Drug,24.63,SUP014,No,Room Temperature
+MED0963,B-Cor 10,Tablet,Oral Solid,Drug,16.71,SUP013,No,Cool & Dry
+MED0964,Awalodipin 10Mg,Tablet,Oral Solid,Drug,18.9,SUP006,Yes,Room Temperature
+MED0965,Similac Gold 1,Milk Formula,Oral Liquid,Drug,3.73,SUP009,Yes,Cool & Dry
+MED0966,Ovaprost 400Mg 15 Rectal & Vagnal Supp,Suppository,Suppository,Drug,7.74,SUP015,No,Room Temperature
+MED0967,Diprosalic,Ointment,Topical,Drug,3.93,SUP007,No,Refrigerated
+MED0968,Folic Acid Kochard,Tablet,Oral Solid,Drug,17.86,SUP009,No,Refrigerated
+MED0969,Nystacort Cream,Cream,Topical,Drug,23.77,SUP011,Yes,Refrigerated
+MED0970,Diflucan 150Mg,Capsule,Oral Solid,Drug,18.43,SUP014,Yes,Room Temperature
+MED0971,Fixef 400Mg,Tablet,Oral Solid,Drug,5.6,SUP007,Yes,Room Temperature
+MED0972,Mycoyat Vaginal Cream,Suppository,Suppository,Drug,5.01,SUP004,Yes,Cool & Dry
+MED0973,Amlodipine 5Mg Actavis,Tablet,Oral Solid,Drug,16.74,SUP010,Yes,Room Temperature
+MED0974,Sulprim Forte 10 Tab,Tablet,Oral Solid,Drug,18.32,SUP006,No,Room Temperature
+MED0975,D3Plan 5000 Iu,Capsule,Oral Solid,Drug,7.09,SUP012,No,Cool & Dry
+MED0976,Sunsafe Men Spf 40,Cream,Topical,Supply,18.11,SUP007,Yes,Cool & Dry
+MED0977,Liv-52,Tablet,Oral Solid,Drug,4.09,SUP012,Yes,Room Temperature
+MED0978,Kombiglyze Xr 2.5/1000Mg,Tablet,Oral Solid,Drug,19.01,SUP013,No,Refrigerated
+MED0979,Fost Print Plus,Solution,Oral Liquid,Drug,6.87,SUP002,No,Refrigerated
+MED0980,Novaten  25Mg,Tablet,Oral Solid,Drug,10.61,SUP004,No,Room Temperature
+MED0981,A-Z Vitamin,Tablet,Oral Solid,Drug,3.3,SUP011,No,Room Temperature
+MED0982,Calcium/Vit D 600Mg/400Iu,Capsule,Oral Solid,Drug,17.91,SUP011,No,Refrigerated
+MED0983,Noreva Exfoliac Spf 50 Uv Blocker,Cream,Topical,Supply,8.02,SUP008,Yes,Room Temperature
+MED0984,Radic Med Anti Hair Loss 300Ml,Shampoo,Personal Care,Supply,14.7,SUP003,No,Cool & Dry
+MED0985,Radic Med  Anti Hair Loss Ampoule Treatment For Women,Injection,Injectable,Supply,56.93,SUP014,No,Room Temperature
+MED0986,Apmox-250,Capsule,Oral Solid,Drug,15.25,SUP012,No,Cool & Dry
+MED0987,Lido Plus,Spray,Respiratory,Supply,38.27,SUP015,No,Refrigerated
+MED0988,Lipikar Baume Ap+ M,Cream,Topical,Supply,18.51,SUP013,No,Room Temperature
+MED0989,Azithro-Denk 250 Mg,Tablet,Oral Solid,Drug,15.23,SUP004,No,Room Temperature
+MED0990,Candio *,Ear Drop,Ear,Drug,7.32,SUP012,Yes,Refrigerated
+MED0991,Mupirocin Cream Usp 2%,Cream,Topical,Drug,18.35,SUP001,No,Cool & Dry
+MED0992,Vichy Dercos Densi-Solution 250Ml,Shampoo,Personal Care,Supply,4.77,SUP015,No,Refrigerated
+MED0993,Fusibact Oint 15Gm,Ointment,Topical,Drug,21.11,SUP013,No,Room Temperature
+MED0994,Amoxicillin  Bp  250Mg,Capsule,Oral Solid,Drug,9.05,SUP009,No,Room Temperature
+MED0995,Uriage Hyseac Gel Nettoyant  150Ml,Gel,Topical,Supply,38.21,SUP013,No,Cool & Dry
+MED0996,Aciclovir 200 Mg,Tablet,Oral Solid,Drug,2.11,SUP002,Yes,Cool & Dry
+MED0997,Elica Ointment,Ointment,Topical,Drug,16.71,SUP008,Yes,Cool & Dry
+MED0998,Ulciguard Gel 10G,Gel,Topical,Supply,19.41,SUP003,No,Room Temperature
+MED0999,Otosan Nasal Wash Powder,Powder,Dermatology,Drug,24.01,SUP015,Yes,Cool & Dry
+MED1000,Gupisone 20,Tablet,Oral Solid,Drug,17.33,SUP002,No,Room Temperature
+MED1001,Babe New Nuevo Spf 50 Dry Skin,Cream,Topical,Supply,6.68,SUP012,Yes,Cool & Dry
+MED1002,Nutraflex Gel 150Ml,Gel,Topical,Drug,28.37,SUP005,No,Room Temperature
+MED1003,Gentle Iron 28Mg,Tablet,Oral Solid,Drug,11.57,SUP004,Yes,Refrigerated
+MED1004,Zithrokan 500Mg,Tablet,Oral Solid,Drug,19.59,SUP013,Yes,Room Temperature
+MED1005,Euthyrox 100Mcg,Tablet,Oral Solid,Drug,8.14,SUP007,No,Cool & Dry
+MED1006,Sun 50+ Fluid Invisible  50Ml,Cream,Topical,Supply,17.73,SUP005,Yes,Cool & Dry
+MED1007,Ecrinal Anp 2+ Shampoo For Women,Shampoo,Personal Care,Supply,7.31,SUP014,No,Refrigerated
+MED1008,Proctoheal Oint,Ointment,Topical,Drug,7.52,SUP004,No,Room Temperature
+MED1009,Derma Safee Urea 20%,Gel,Topical,Supply,34.38,SUP009,No,Room Temperature
+MED1010,Avene Sunblock Cream For Dry Sensitive Skin Spf50,Cream,Topical,Supply,19.82,SUP011,Yes,Cool & Dry
+MED1011,Doxepin 25 30Cap Razak Laboratories,Capsule,Oral Solid,Drug,13.76,SUP002,No,Cool & Dry
+MED1012,Ketoconazole 2%  B5,Shampoo,Personal Care,Supply,19.97,SUP014,No,Room Temperature
+MED1013,Ip-Urea 10%Skin Lab,Cream,Topical,Supply,25.09,SUP004,No,Room Temperature
+MED1014,Dolomark 20 Tab Cold Flu,Tablet,Oral Solid,Drug,1.9,SUP001,Yes,Room Temperature
+MED1015,Kin Oro Cleaning,Tablet,Oral Solid,Supply,16.06,SUP001,No,Room Temperature
+MED1016,Ectros 30G,Ointment,Topical,Drug,12.01,SUP001,No,Room Temperature
+MED1017,Multivitamin 60 Tab Oxford,Tablet,Oral Solid,Drug,3.83,SUP005,No,Room Temperature
+MED1018,Cipro 500Mg 14Tab,Tablet,Oral Solid,Drug,11.94,SUP002,No,Cool & Dry
+MED1019,Kenda Kids Strawberry Milk 3-10 Ages,Milk Formula,Oral Liquid,Supply,3.1,SUP004,Yes,Room Temperature
+MED1020,Tunolol 0.50% Eye Drops 5Ml,Eye Drop,Ophthalmic,Drug,28.66,SUP003,No,Room Temperature
+MED1021,Cyproheptadine 4Mg 20Tab,Tablet,Oral Solid,Drug,5.33,SUP014,No,Room Temperature
+MED1022,Alpecin A1 Shampoo,Shampoo,Personal Care,Supply,8.05,SUP013,No,Refrigerated
+MED1023,Kendalife Strawberry 8Sachet,Sachet,Oral Solid,Supply,17.59,SUP011,Yes,Room Temperature
+MED1024,Bisoprolol 2.5 Mg Film-Coated,Tablet,Oral Solid,Drug,7.58,SUP002,No,Room Temperature
+MED1025,Scar Esthetique 10G,Cream,Topical,Supply,8.46,SUP002,No,Room Temperature
+MED1026,Mandanol Paracetamol 500Mg 16 Tab,Tablet,Oral Solid,Drug,18.16,SUP005,Yes,Room Temperature
+MED1027,Relaxen Day Non Drowsy,Capsule,Oral Solid,Drug,1.55,SUP008,No,Room Temperature
+MED1028,Vita Vit -Health Cap,Capsule,Oral Solid,Drug,17.38,SUP002,No,Refrigerated
+MED1029,Hyfresh,Eye Drop,Ophthalmic,Drug,11.91,SUP007,No,Cool & Dry
+MED1030,Neutop 50Mg,Tablet,Oral Solid,Drug,3.9,SUP006,Yes,Room Temperature
+MED1031,Finestup 5Mg 28 Tab Kleva,Tablet,Oral Solid,Drug,6.14,SUP011,No,Refrigerated
+MED1032,Disalart 5Mg,Tablet,Oral Solid,Drug,4.73,SUP007,Yes,Room Temperature
+MED1033,Zaraxin 500Mg,Tablet,Oral Solid,Drug,13.73,SUP001,Yes,Cool & Dry
+MED1034,Fitting Insertion  (Jaguar Power),Suppository,Suppository,Drug,4.41,SUP012,No,Refrigerated
+MED1035,Arnica 30% Gicar 75Ml,Cream,Topical,Supply,3.55,SUP010,Yes,Room Temperature
+MED1036,Actinac Plus+,Tablet,Oral Solid,Drug,16.11,SUP005,Yes,Refrigerated
+MED1037,Losar-Denk 50Mg 28Tab,Tablet,Oral Solid,Drug,5.9,SUP006,No,Room Temperature
+MED1038,Itraconazole Awa 100,Capsule,Oral Solid,Drug,7.49,SUP007,No,Room Temperature
+MED1039,Methadin 10Ml,Drop,Oral Liquid,Drug,4.79,SUP006,Yes,Cool & Dry
+MED1040,Fluor-Kin Anticaries,Toothpaste,Personal Care,Supply,3.47,SUP004,No,Refrigerated
+MED1041,My A-Rbutin Lightening,Cream,Topical,Supply,30.44,SUP005,Yes,Room Temperature
+MED1042,Calpol Infant Gel,Sachet,Oral Solid,Drug,11.23,SUP007,Yes,Refrigerated
+MED1043,Atacand 16 Mg,Tablet,Oral Solid,Drug,15.29,SUP010,No,Cool & Dry
+MED1044,Aquasoft Max Ajanta,Cream,Topical,Supply,20.62,SUP010,Yes,Cool & Dry
+MED1045,Xylocane 5% El,Gel,Topical,Drug,31.79,SUP015,Yes,Cool & Dry
+MED1046,Enox 4000 Anti-Xa Iu/0.4Ml,Injection,Injectable,Drug,45.93,SUP008,No,Cool & Dry
+MED1047,Diabex 30 Tab,Tablet,Oral Solid,Drug,3.52,SUP011,Yes,Room Temperature
+MED1048,Tearlose Artificial Tears 10Ml,Drop,Oral Liquid,Supply,10.06,SUP010,Yes,Refrigerated
+MED1049,Mega 3,Capsule,Oral Solid,Drug,18.99,SUP010,Yes,Cool & Dry
+MED1050,Immuni Boost Tab Ultra Pure,Tablet,Oral Solid,Drug,2.3,SUP001,No,Room Temperature
+MED1051,Delor 5Mg Zada,Tablet,Oral Solid,Drug,15.99,SUP011,Yes,Refrigerated
+MED1052,Atorvast 20Mg,Tablet,Oral Solid,Drug,17.54,SUP008,Yes,Refrigerated
+MED1053,Concor Cor 2.5Mg,Tablet,Oral Solid,Drug,11.15,SUP001,No,Room Temperature
+MED1054,Deanxit,Tablet,Oral Solid,Drug,9.97,SUP008,Yes,Cool & Dry
+MED1055,Kamagra 50Mg Oral Jelly,Gel,Topical,Drug,38.67,SUP006,Yes,Room Temperature
+MED1056,Piyloseptyl Syrup,Syrup,Oral Liquid,Drug,2.97,SUP006,No,Room Temperature
+MED1057,Elica Cream  30G,Cream,Topical,Drug,20.72,SUP001,Yes,Room Temperature
+MED1058,Forvita C Tab 500Mg,Tablet,Oral Solid,Drug,8.93,SUP005,No,Cool & Dry
+MED1059,Ghr 60 Tab (Growth Hormone Releaser),Tablet,Oral Solid,Drug,14.19,SUP012,No,Cool & Dry
+MED1060,Losiram 10Mg,Tablet,Oral Solid,Drug,10.57,SUP008,Yes,Cool & Dry
+MED1061,Ketorom 5Ml,Drop,Oral Liquid,Supply,16.56,SUP014,Yes,Room Temperature
+MED1062,Pelargos Orange Flavor  120Ml,Syrup,Oral Liquid,Drug,3.18,SUP013,No,Room Temperature
+MED1063,Kendalife Banana 8Sachet,Sachet,Oral Solid,Supply,2.99,SUP007,Yes,Cool & Dry
+MED1064,Evolac  Lf,Milk Formula,Oral Liquid,Supply,11.73,SUP013,No,Room Temperature
+MED1065,Vitamin E 400Mg 30 Cap,Capsule,Oral Solid,Drug,2.72,SUP009,Yes,Room Temperature
+MED1066,Mefenamic Awa 500Mg,Tablet,Oral Solid,Drug,6.59,SUP013,Yes,Room Temperature
+MED1067,Uriage Roseliane  Anti-Rougeurs  40Ml,Cream,Topical,Supply,26.42,SUP002,No,Refrigerated
+MED1068,Etoria 90Mg Sana Pharma,Tablet,Oral Solid,Drug,11.64,SUP007,Yes,Cool & Dry
+MED1069,Mela Dorm,Drop,Oral Liquid,Drug,7.2,SUP012,No,Room Temperature
+MED1070,Optiron Iron Bis-Glycinate 90Cap,Capsule,Oral Solid,Drug,19.9,SUP010,Yes,Refrigerated
+MED1071,Vitamin D3 10000Iu,Capsule,Oral Solid,Drug,11.32,SUP010,Yes,Cool & Dry
+MED1072,Chilora Eye Drop,Eye Drop,Ophthalmic,Drug,20.25,SUP015,No,Room Temperature
+MED1073,Zn-Fine Warden 50Mg,Tablet,Oral Solid,Drug,12.7,SUP006,Yes,Refrigerated
+MED1074,Cemega Fish Oil 200Ml,Syrup,Oral Liquid,Drug,3.59,SUP011,No,Cool & Dry
+MED1075,Betacortal 0.1% Topical Ointment 15Gm,Ointment,Topical,Drug,28.97,SUP008,No,Refrigerated
+MED1076,Clotrion 10Gm Cream,Cream,Topical,Drug,34.55,SUP001,Yes,Room Temperature
+MED1077,Pediatric Spf 50 100Ml,Lotion,Topical,Supply,27.08,SUP007,Yes,Cool & Dry
+MED1078,Moclavin 875/125Mg 14 Tablet,Tablet,Oral Solid,Drug,15.73,SUP001,Yes,Room Temperature
+MED1079,Piophage 850Mg,Tablet,Oral Solid,Drug,14.84,SUP008,No,Room Temperature
+MED1080,Erycytol Depot 1Mg/Ml,Injection,Injectable,Drug,25.05,SUP013,Yes,Cool & Dry
+MED1081,Avocom 0.05% Nasal Spary Avalon Pharma;,Nasal Spray,Nasal,Drug,14.03,SUP015,Yes,Cool & Dry
+MED1082,My Keep Fresh Shampoo,Shampoo,Personal Care,Supply,8.4,SUP002,Yes,Room Temperature
+MED1083,Layal,Tablet,Oral Solid,Drug,7.77,SUP008,Yes,Cool & Dry
+MED1084,Butalin 120Ml,Syrup,Oral Liquid,Drug,9.26,SUP005,Yes,Room Temperature
+MED1085,Dioclav 1G Npi 10Tab,Tablet,Oral Solid,Drug,9.2,SUP009,Yes,Room Temperature
+MED1086,Fine'S Ultra Omega Complete Gum,Lozenge,Oral Solid,Drug,3.26,SUP002,Yes,Cool & Dry
+MED1087,Avocom-M 50G Cream Avalon Pharma;,Cream,Topical,Drug,18.79,SUP002,No,Room Temperature
+MED1088,Ghost Honey,Sachet,Oral Solid,Supply,13.8,SUP004,No,Cool & Dry
+MED1089,Librax,Tablet,Oral Solid,Drug,8.42,SUP012,Yes,Cool & Dry
+MED1090,Panadol Extra 24 Tablet Sur,Tablet,Oral Solid,Drug,4.32,SUP014,No,Room Temperature
+MED1091,Ovaboost For Women 120 Cap,Capsule,Oral Solid,Drug,18.58,SUP012,Yes,Room Temperature
+MED1092,Telmicard 80Mg,Tablet,Oral Solid,Drug,2.74,SUP011,Yes,Refrigerated
+MED1093,La Roche-Posay Hyalu B5 Eyes,Cream,Topical,Supply,33.78,SUP015,No,Refrigerated
+MED1094,Amlodipine 10Mg,Tablet,Oral Solid,Drug,3.22,SUP002,No,Cool & Dry
+MED1095,Janumet 50/1000Mg,Tablet,Oral Solid,Drug,3.29,SUP008,Yes,Cool & Dry
+MED1096,Svr Xerial 30 100Ml,Cream,Topical,Supply,30.34,SUP007,Yes,Room Temperature
+MED1097,Aspicell Tab 100Mg,Tablet,Oral Solid,Drug,16.52,SUP012,No,Room Temperature
+MED1098,Plavix  75Mg,Tablet,Oral Solid,Drug,11.79,SUP006,No,Room Temperature
+MED1099,Ecrinal Anp2+ Lotion For Women,Lotion,Topical,Supply,24.7,SUP004,No,Refrigerated
+MED1100,Ecrinal Fortifying Shampoo For Women,Shampoo,Personal Care,Drug,17.72,SUP010,No,Room Temperature
+MED1101,Lamifen   15G   1%,Cream,Topical,Drug,15.2,SUP008,No,Room Temperature
+MED1102,Meto Aiwa 50Mg,Tablet,Oral Solid,Drug,3.76,SUP001,Yes,Room Temperature
+MED1103,Metanium,Cream,Topical,Supply,16.08,SUP006,No,Refrigerated
+MED1104,Ducray Keracnyl  200Ml,Gel,Topical,Supply,27.62,SUP005,Yes,Room Temperature
+MED1105,Thrombo Ass 75 Mg,Tablet,Oral Solid,Drug,15.38,SUP009,No,Room Temperature
+MED1106,Lpr Anthelios Xl50+ Innovation Yeux Sensibles,Cream,Topical,Supply,35.12,SUP013,Yes,Cool & Dry
+MED1107,Hungry,Tablet,Oral Solid,Drug,14.84,SUP012,Yes,Room Temperature
+MED1108,Appetite Booster Pectin Gummies 60Gum,Lozenge,Oral Solid,Drug,19.42,SUP014,No,Room Temperature
+MED1109,Garnier Skin Active Intensive Tube 150 Ml Ml Gel,Gel,Topical,Supply,25.22,SUP008,Yes,Refrigerated
+MED1110,Calcion 3,Syrup,Oral Liquid,Drug,7.63,SUP004,Yes,Room Temperature
+MED1111,Dexoyat Syrup 100Ml,Syrup,Oral Liquid,Drug,11.25,SUP010,No,Room Temperature
+MED1112,Lofnac 50  30 Sachet,Sachet,Oral Solid,Drug,5.44,SUP007,No,Refrigerated
+MED1113,Kanagesic,Tablet,Oral Solid,Drug,13.65,SUP002,No,Cool & Dry
+MED1114,Mobic 7.5Mg,Tablet,Oral Solid,Drug,5.65,SUP001,No,Room Temperature
+MED1115,Link 20Mg,Tablet,Oral Solid,Drug,3.5,SUP011,No,Room Temperature
+MED1116,Dexamethasone-Cox 8Mg/2Ml,Injection,Injectable,Drug,69.18,SUP003,Yes,Room Temperature
+MED1117,La Roche-Posay Retinol B3 Serum 30Ml,Serum,Topical,Supply,16.6,SUP010,No,Refrigerated
+MED1118,Betamethasone Valerate 0.1% Ointment,Ointment,Topical,Drug,31.22,SUP014,No,Room Temperature
+MED1119,Fine'S Arthritis Relief Gummy 180Gm,Lozenge,Oral Solid,Supply,12.12,SUP011,Yes,Room Temperature
+MED1120,Lavar Ehite Plus Tooth Paste 85 Gm,Toothpaste,Personal Care,Supply,24.6,SUP013,No,Cool & Dry
+MED1121,Farcolin 20Ml Respirator Solution,Solution,Oral Liquid,Drug,15.52,SUP001,Yes,Cool & Dry
+MED1122,Mae Lemon & Mint Flavour 7Day Pack 21*3G Sachets,Sachet,Oral Solid,Drug,19.53,SUP015,No,Refrigerated
+MED1123,F.D Forte,Drop,Oral Liquid,Drug,15.09,SUP009,No,Room Temperature
+MED1124,Pediatric Moisturising Body Milk,Cream,Topical,Drug,25.7,SUP008,No,Room Temperature
+MED1125,Triaxone 500Mg Im/Iv,Injection,Injectable,Drug,54.99,SUP002,No,Refrigerated
+MED1126,Lamiter 10Mg Cream,Cream,Topical,Drug,3.97,SUP009,No,Refrigerated
+MED1127,Alessia 10Mg 30Tab,Tablet,Oral Solid,Drug,18.69,SUP003,No,Refrigerated
+MED1128,Vominore,Tablet,Oral Solid,Drug,16.85,SUP008,Yes,Cool & Dry
+MED1129,Pacroma 1% 15G,Cream,Topical,Drug,12.9,SUP005,Yes,Room Temperature
+MED1130,Bioderma Photoderm Ar Spf 50 Tended,Cream,Topical,Drug,9.68,SUP012,Yes,Room Temperature
+MED1131,Gentamicin 0.3% 20G,Cream,Topical,Supply,29,SUP010,No,Room Temperature
+MED1132,Protane 0.025%,Cream,Topical,Drug,14.43,SUP007,No,Room Temperature
+MED1133,Atarax 25Mg,Tablet,Oral Solid,Drug,7.79,SUP013,Yes,Cool & Dry
+MED1134,Ritrom 250Mg Syrup,Syrup,Oral Liquid,Drug,2.1,SUP015,No,Cool & Dry
+MED1135,Pms-Pregabalin 75Mg,Capsule,Oral Solid,Drug,17.59,SUP009,No,Refrigerated
+MED1136,Jointplus,Tablet,Oral Solid,Drug,11.98,SUP011,No,Cool & Dry
+MED1137,Alerzin 10Mg,Tablet,Oral Solid,Drug,8.91,SUP012,No,Cool & Dry
+MED1138,Spazmotek Plus,Tablet,Oral Solid,Drug,4.12,SUP001,No,Cool & Dry
+MED1139,Lyrica 75 Mg Pfizer,Capsule,Oral Solid,Drug,13.21,SUP005,No,Cool & Dry
+MED1140,Gastone 60 Capsules,Capsule,Oral Solid,Supply,2.07,SUP010,Yes,Room Temperature
+MED1141,Celoxx 200Mg,Tablet,Oral Solid,Drug,15.3,SUP002,No,Cool & Dry
+MED1142,Go Joints  Quick Absorb 450 Ml,Syrup,Oral Liquid,Drug,5.44,SUP012,Yes,Room Temperature
+MED1143,Healthy Heamatofrol,Capsule,Oral Solid,Drug,9.27,SUP009,No,Refrigerated
+MED1144,Dermoyat Ointment For Exertnal Use,Ointment,Topical,Drug,15.61,SUP008,No,Cool & Dry
+MED1145,Scopinal 20Mf/Ml Amp,Injection,Injectable,Supply,35.9,SUP003,No,Room Temperature
+MED1146,Elegant Vitashine Skin Lightening Soap 100Gm,Soap,Personal Care,Drug,22.2,SUP015,No,Room Temperature
+MED1147,Revolu C White Active Whitening Set,Solution,Oral Liquid,Supply,14.43,SUP008,No,Room Temperature
+MED1148,Fermet 5Mg,Tablet,Oral Solid,Drug,12,SUP005,No,Room Temperature
+MED1149,Energy Et Hansal 20 Tab Effervescent Tab,Tablet,Oral Solid,Drug,3.07,SUP014,No,Room Temperature
+MED1150,Glycerin Infant,Suppository,Suppository,Drug,4.84,SUP003,No,Refrigerated
+MED1151,D3-Caps 5000 Iu Mic,Capsule,Oral Solid,Drug,4.41,SUP001,No,Room Temperature
+MED1152,I-Pill,Tablet,Oral Solid,Drug,12.93,SUP005,Yes,Cool & Dry
+MED1153,Dermasid 15G   Cream Kleva;,Cream,Topical,Drug,27.94,SUP010,No,Room Temperature
+MED1154,Biorepair Plus 75Ml,Toothpaste,Personal Care,Supply,9.62,SUP006,Yes,Cool & Dry
+MED1155,Propranolol 10Mg,Tablet,Oral Solid,Drug,13.75,SUP007,No,Room Temperature
+MED1156,Foli Heal Plus For Women Cap,Capsule,Oral Solid,Drug,10.48,SUP002,No,Room Temperature
+MED1157,B-Care Plus American Care,Tablet,Oral Solid,Drug,9.68,SUP011,Yes,Refrigerated
+MED1158,Zaha 500Mg,Tablet,Oral Solid,Drug,6.55,SUP003,Yes,Refrigerated
+MED1159,Cox B-200,Capsule,Oral Solid,Drug,15.47,SUP014,No,Refrigerated
+MED1160,Piodol Muscle & Joint,Tablet,Oral Solid,Drug,3.61,SUP002,No,Cool & Dry
+MED1161,Svr Xerial 30 Creme Pieds 50Ml,Cream,Topical,Supply,18.91,SUP004,No,Cool & Dry
+MED1162,Betmiga 50Mg 30Tab,Tablet,Oral Solid,Drug,6.74,SUP008,Yes,Room Temperature
+MED1163,Pantoprazol Arysto  40Mg,Tablet,Oral Solid,Drug,14.05,SUP008,Yes,Room Temperature
+MED1164,Daily Medicine Container With Pills Dividing System,Tablet,Oral Solid,Supply,10.5,SUP004,No,Cool & Dry
+MED1165,Nebilet,Tablet,Oral Solid,Drug,13.84,SUP001,No,Refrigerated
+MED1166,Spirolakton Awa  25,Tablet,Oral Solid,Drug,2.34,SUP007,No,Room Temperature
+MED1167,Lilyphane 60 Tab,Tablet,Oral Solid,Drug,8.81,SUP013,Yes,Room Temperature
+MED1168,Roxipime 1G Iv/Im,Injection,Injectable,Drug,51.95,SUP012,Yes,Room Temperature
+MED1169,Thrombo Ass 100Mg Gerot Lannach,Tablet,Oral Solid,Drug,1.64,SUP013,Yes,Room Temperature
+MED1170,Libfavir 200Mg,Tablet,Oral Solid,Drug,7.08,SUP011,No,Cool & Dry
+MED1171,Lilycystine 60 Cap,Capsule,Oral Solid,Drug,5.41,SUP015,No,Room Temperature
+MED1172,Lumecare Hypromellose,Eye Drop,Ophthalmic,Drug,11.71,SUP003,Yes,Refrigerated
+MED1173,Glucovance   500Mg/5Mg,Tablet,Oral Solid,Drug,6.23,SUP013,No,Room Temperature
+MED1174,Awa Retic Awamedica,Tablet,Oral Solid,Drug,7.57,SUP007,Yes,Room Temperature
+MED1175,Plavineer 75Mg Pioneer,Tablet,Oral Solid,Drug,1.64,SUP001,Yes,Room Temperature
+MED1176,Arbiten   160Mg,Tablet,Oral Solid,Drug,15.32,SUP005,Yes,Room Temperature
+MED1177,Amaryl M 2Mg/500Mg,Tablet,Oral Solid,Drug,4.75,SUP003,No,Cool & Dry
+MED1178,Calypso Facial Sun 30,Cream,Topical,Drug,17.07,SUP004,Yes,Refrigerated
+MED1179,Xeractan 20Mg 30 Soft Gelatin,Capsule,Oral Solid,Drug,14.52,SUP006,No,Cool & Dry
+MED1180,Panadol 500Mg Gsk 36Tab,Tablet,Oral Solid,Drug,10.75,SUP014,No,Room Temperature
+MED1181,Meiact 200Mg,Tablet,Oral Solid,Drug,16.92,SUP011,No,Room Temperature
+MED1182,Dutasteride/Tamsulosin Hydrochloride 0.5Mg/0.4Mg Hard Capsules,Capsule,Oral Solid,Drug,16.41,SUP010,No,Room Temperature
+MED1183,Pagamax Plus 75Mg/1Mg 60 Hard Gelatine Capsules,Capsule,Oral Solid,Drug,2.83,SUP014,Yes,Room Temperature
+MED1184,Tilcotil  20 Mg,Tablet,Oral Solid,Drug,17.44,SUP008,Yes,Refrigerated
+MED1185,Timolol 0.5 % W/V Eye Drops Solution  5Ml,Drop,Oral Liquid,Drug,2.68,SUP004,Yes,Cool & Dry
+MED1186,Hydraphase Intense Legere 50Ml,Cream,Topical,Supply,3.69,SUP012,Yes,Room Temperature
+MED1187,Pectol Fresh Cherry Flavour +Vit C Lozenge Spain;,Lozenge,Oral Solid,Supply,18.54,SUP008,No,Room Temperature
+MED1188,Xelon 15Mg/5Ml Syrup,Syrup,Oral Liquid,Drug,15.79,SUP013,No,Room Temperature
+MED1189,Ativit,Syrup,Oral Liquid,Drug,11.21,SUP012,Yes,Room Temperature
+MED1190,Kin Care Mouth Wash,Mouthwash,Personal Care,Supply,18.06,SUP015,No,Cool & Dry
+MED1191,Urisept  100Mg,Tablet,Oral Solid,Drug,14.63,SUP002,Yes,Cool & Dry
+MED1192,Ispagel Orange 3.5G Powder,Powder,Dermatology,Drug,13.35,SUP002,No,Cool & Dry
+MED1193,Coliez,Drop,Oral Liquid,Drug,3.84,SUP003,No,Room Temperature
+MED1194,D3 Biofactor 3000Iu Drops,Drop,Oral Liquid,Supply,2.33,SUP003,No,Room Temperature
+MED1195,Colgate Max White White & Protect,Toothpaste,Personal Care,Supply,11.09,SUP003,No,Refrigerated
+MED1196,Katya 30/75 Stragen Com,Tablet,Oral Solid,Drug,16.32,SUP012,No,Room Temperature
+MED1197,Sodium Bicarbonate,Ear Drop,Ear,Drug,14.27,SUP010,No,Cool & Dry
+MED1198,Kamagra 100Mg,Tablet,Oral Solid,Drug,16.89,SUP010,No,Refrigerated
+MED1199,Suprax  400Mg,Capsule,Oral Solid,Drug,18.52,SUP001,No,Room Temperature
+MED1200,Venopower 450/50 Mg 30 Tab,Tablet,Oral Solid,Drug,3.13,SUP008,Yes,Room Temperature
+MED1201,Vaseline Intensive Care Advanced Repair,Cream,Topical,Supply,34.25,SUP008,Yes,Refrigerated
+MED1202,Betalek Cream 30G,Cream,Topical,Drug,12,SUP006,No,Room Temperature
+MED1203,L-Carnitine 500Mg,Capsule,Oral Solid,Drug,12.39,SUP013,Yes,Cool & Dry
+MED1204,Bactiflox Neo 500Mg,Tablet,Oral Solid,Drug,11.19,SUP012,Yes,Room Temperature
+MED1205,Adt 25Mg   60Tab,Tablet,Oral Solid,Drug,8.82,SUP007,No,Room Temperature
+MED1206,Foliculin -75 Hp,Injection,Injectable,Drug,31.72,SUP001,No,Room Temperature
+MED1207,Sansafe Whitening,Cream,Topical,Supply,15.56,SUP012,Yes,Room Temperature
+MED1208,Paracetamol 500Mg Troge,Tablet,Oral Solid,Drug,7.66,SUP009,No,Room Temperature
+MED1209,Gentamycin 0.3% Eye Ointment 4Gm,Eye Ointment,Ophthalmic,Drug,12.54,SUP015,No,Refrigerated
+MED1210,Claricide  500Mg,Tablet,Oral Solid,Drug,10.94,SUP012,No,Refrigerated
+MED1211,Histofen Syrup 00Ml,Syrup,Oral Liquid,Drug,3.82,SUP006,No,Room Temperature
+MED1212,Mometasone Furoate 0.1% W/W Ointment,Ointment,Topical,Drug,21.87,SUP011,No,Refrigerated
+MED1213,Acm Vitix,Gel,Topical,Supply,36.52,SUP009,Yes,Room Temperature
+MED1214,Zytrom 200Mg/5Ml  30Ml,Syrup,Oral Liquid,Drug,7.59,SUP002,Yes,Refrigerated
+MED1215,Para-Denk 250Mg,Suppository,Suppository,Drug,15.64,SUP007,No,Room Temperature
+MED1216,Maddosol Hypertonic,Nasal Spray,Nasal,Drug,21.38,SUP008,Yes,Refrigerated
+MED1217,Peppermint Oil 50Mg Cap,Capsule,Oral Solid,Drug,16.58,SUP001,Yes,Refrigerated
+MED1218,Favira 200Mg Favipiravir,Tablet,Oral Solid,Drug,5.87,SUP005,Yes,Refrigerated
+MED1219,Ecrinal Anti Hair Loss Ampoules With Anp2,Injection,Injectable,Drug,20.25,SUP007,No,Cool & Dry
+MED1220,Quinoric  200 Mg,Tablet,Oral Solid,Drug,5.15,SUP009,Yes,Cool & Dry
+MED1221,Dermatix 15G,Gel,Topical,Drug,25.29,SUP012,No,Cool & Dry
+MED1222,Rovac 10Tab,Tablet,Oral Solid,Drug,15.56,SUP007,No,Refrigerated
+MED1223,Hayaphenicol 1% Eye Ointment,Eye Ointment,Ophthalmic,Drug,25.7,SUP002,No,Refrigerated
+MED1224,Savoxia 90Mg 14Tab,Tablet,Oral Solid,Drug,4.78,SUP002,No,Cool & Dry
+MED1225,Libraxam   Sdi,Tablet,Oral Solid,Drug,15.8,SUP002,No,Room Temperature
+MED1226,Ghrt 60 Tab (Growth Hormone Releaser) Teenagers Tablet Kp;,Tablet,Oral Solid,Drug,10.64,SUP005,No,Room Temperature
+MED1227,Inoar Blends Rich In Vitamin C Shampoo,Shampoo,Personal Care,Supply,23.12,SUP015,Yes,Room Temperature
+MED1228,Metformin Denk 500,Tablet,Oral Solid,Drug,15.56,SUP011,No,Room Temperature
+MED1229,Babe Intimate Hygiene Gel  250Ml,Gel,Topical,Supply,19.61,SUP006,No,Room Temperature
+MED1230,Avene Soap,Soap,Personal Care,Supply,27.88,SUP008,Yes,Room Temperature
+MED1231,Longacef 1Gm Iv,Injection,Injectable,Drug,49.51,SUP007,No,Room Temperature
+MED1232,Hemomycin 500Mg,Tablet,Oral Solid,Drug,13.25,SUP009,Yes,Room Temperature
+MED1233,Midolek 150 Mg 30Tab,Tablet,Oral Solid,Drug,13.05,SUP015,No,Cool & Dry
+MED1234,Sodium Chloride 0.9 500Ml  Bottle,Solution,Oral Liquid,Drug,15.83,SUP004,No,Refrigerated
+MED1235,Candid Cream,Cream,Topical,Drug,26.21,SUP015,Yes,Room Temperature
+MED1236,Funbinar 250Mg 28Tab,Tablet,Oral Solid,Drug,4.29,SUP015,No,Room Temperature
+MED1237,Apple Cider Plus Nutralic 60 Gum,Lozenge,Oral Solid,Supply,2.76,SUP015,Yes,Refrigerated
+MED1238,Letrozole 2.5Mg,Tablet,Oral Solid,Drug,9.68,SUP003,No,Room Temperature
+MED1239,Colesol  2400 Iu/Ml  30Ml,Drop,Oral Liquid,Drug,6.85,SUP002,No,Refrigerated
+MED1240,Anginovag Spray 10Ml,Solution,Oral Liquid,Supply,6.39,SUP001,No,Refrigerated
+MED1241,Alerinit 5Mg 20Tab,Tablet,Oral Solid,Drug,2.54,SUP003,Yes,Cool & Dry
+MED1242,Dinixir 10 Cap,Capsule,Oral Solid,Drug,10.89,SUP002,Yes,Refrigerated
+MED1243,Cyprota 4Mg 20Tab,Tablet,Oral Solid,Drug,7.24,SUP010,No,Room Temperature
+MED1244,Olfen 50Mg 20 Tab,Tablet,Oral Solid,Drug,9.86,SUP003,No,Refrigerated
+MED1245,Ozical,Tablet,Oral Solid,Drug,2.55,SUP011,Yes,Room Temperature
+MED1246,Pregnacare Plus Omega-3,Tablet,Oral Solid,Drug,16.89,SUP004,No,Cool & Dry
+MED1247,Vitamin D 5000Iu,Tablet,Oral Solid,Drug,2.92,SUP008,Yes,Room Temperature
+MED1248,Laxavit Forte,Tablet,Oral Solid,Drug,17.49,SUP011,No,Room Temperature
+MED1249,Orlistat 120Mg Ibn Al Haytham 20 Capsules,Capsule,Oral Solid,Drug,17.32,SUP009,Yes,Room Temperature
+MED1250,Gnb- Diabeain,Tablet,Oral Solid,Supply,12.88,SUP006,No,Room Temperature
+MED1251,Vc Waterproof Lipstick Italy,Cream,Topical,Supply,21.76,SUP009,No,Refrigerated
+MED1252,Foltene Strengthening For Thinning Hair Shampoo For Women,Shampoo,Personal Care,Supply,14.96,SUP005,Yes,Room Temperature
+MED1253,Mucolyte 100Ml,Syrup,Oral Liquid,Drug,10.87,SUP008,No,Cool & Dry
+MED1254,Xolamol,Eye Drop,Ophthalmic,Drug,29.38,SUP002,Yes,Room Temperature
+MED1255,Fokids Vitality 150 Ml Syrup,Syrup,Oral Liquid,Drug,16.33,SUP013,No,Refrigerated
+MED1256,Kordexa 4Mg,Tablet,Oral Solid,Drug,9.82,SUP011,No,Room Temperature
+MED1257,Svr  Sensifine Fluide 40Ml,Cream,Topical,Supply,32.96,SUP003,No,Cool & Dry
+MED1258,Depo-Medrol 40Mg Turkey,Injection,Injectable,Drug,55.63,SUP010,Yes,Room Temperature
+MED1259,Omegol 3  Truevit 200Ml Syrup,Syrup,Oral Liquid,Drug,7.14,SUP007,Yes,Cool & Dry
+MED1260,Ilon Wound Care Ointment 22%,Gel,Topical,Drug,20.6,SUP002,No,Room Temperature
+MED1261,Babe  10% Urea Repairing Lotion 500Ml,Lotion,Topical,Supply,8.58,SUP009,Yes,Room Temperature
+MED1262,Siofor 850,Tablet,Oral Solid,Drug,2.64,SUP001,No,Cool & Dry
+MED1263,Azid 500Mg 3Tab,Tablet,Oral Solid,Drug,3.41,SUP004,No,Room Temperature
+MED1264,Jihaz Atta Be Code Disposable Infusion Set,Injection,Injectable,Supply,72.94,SUP004,Yes,Room Temperature
+MED1265,Medisol  100Ml,Solution,Oral Liquid,Drug,7.5,SUP003,Yes,Room Temperature
+MED1266,Cefotaxime Normon  Iv 1G,Injection,Injectable,Drug,60,SUP005,No,Room Temperature
+MED1267,Clobetasol 0.05%,Ointment,Topical,Drug,21.67,SUP003,No,Room Temperature
+MED1268,Betixim 400 Mg 5 Cap,Capsule,Oral Solid,Drug,4.69,SUP012,Yes,Room Temperature
+MED1269,Histacare 30Tab,Tablet,Oral Solid,Drug,6.08,SUP012,No,Room Temperature
+MED1270,Quadrim Cream 15Gm,Cream,Topical,Drug,19.2,SUP007,Yes,Room Temperature
+MED1271,Uropan  5Mg,Syrup,Oral Liquid,Drug,9.03,SUP001,No,Cool & Dry
+MED1272,Bn-Hsn 30Tab,Tablet,Oral Solid,Drug,11.17,SUP006,Yes,Refrigerated
+MED1273,Riabal Compound,Tablet,Oral Solid,Drug,4.44,SUP001,Yes,Room Temperature
+MED1274,Panadol Advance 16,Tablet,Oral Solid,Drug,8.4,SUP009,Yes,Refrigerated
+MED1275,Antispasmin 20 Tab,Tablet,Oral Solid,Drug,6.73,SUP013,No,Refrigerated
+MED1276,Nutra Sleep 30 Cap,Capsule,Oral Solid,Drug,9.06,SUP001,Yes,Cool & Dry
+MED1277,Wisdom Daily Gum Healh,Toothpaste,Personal Care,Supply,11.47,SUP002,No,Cool & Dry
+MED1278,Wisdom Chlorhexidine Fresh Mint 300Ml,Mouthwash,Personal Care,Supply,18.74,SUP009,No,Refrigerated
+MED1279,Skinlab Cleanser Daily Care Oily Skin,Gel,Topical,Supply,32.2,SUP011,Yes,Refrigerated
+MED1280,Alctone  50,Tablet,Oral Solid,Drug,13.48,SUP005,No,Cool & Dry
+MED1281,Tenvia Plus 80/12.5Mg,Tablet,Oral Solid,Drug,2.72,SUP010,No,Room Temperature
+MED1282,Nupentin-300Mg,Capsule,Oral Solid,Drug,3.25,SUP009,No,Room Temperature
+MED1283,Biofreeze 118Ml,Gel,Topical,Drug,28.1,SUP001,Yes,Cool & Dry
+MED1284,Cinnacor Cinnarizine Adipharm 25Mg,Tablet,Oral Solid,Drug,6.76,SUP005,No,Room Temperature
+MED1285,Ursoflor 300Mg,Tablet,Oral Solid,Drug,14.89,SUP015,No,Refrigerated
+MED1286,Ciprocort,Ear Drop,Ear,Drug,14.85,SUP013,No,Room Temperature
+MED1287,Panklav 625Mg,Tablet,Oral Solid,Drug,18.27,SUP003,Yes,Room Temperature
+MED1288,Time-Filler Cream 50Ml,Cream,Topical,Supply,35.31,SUP006,No,Room Temperature
+MED1289,Gesta 2 Tow 30Tab,Tablet,Oral Solid,Drug,7.67,SUP015,Yes,Refrigerated
+MED1290,Visanne 2 Mg Bayer,Tablet,Oral Solid,Drug,12.28,SUP004,No,Room Temperature
+MED1291,Topicrem Mela Body Lightening & Ultra -Moisturzing Millk,Cream,Topical,Supply,8.23,SUP014,No,Refrigerated
+MED1292,Noreva Sensidiane Ar Intensif 30Ml,Cream,Topical,Supply,15.94,SUP008,No,Room Temperature
+MED1293,Ozar Oinment (B-Sitoseterol) 0.25 %,Ointment,Topical,Drug,38.8,SUP013,No,Room Temperature
+MED1294,Woundcel  60Cap,Capsule,Oral Solid,Drug,14.42,SUP004,No,Cool & Dry
+MED1295,Momate Ointment 15Gm,Ointment,Topical,Drug,17.5,SUP004,Yes,Cool & Dry
+MED1296,Ibuprofen Denk  400,Tablet,Oral Solid,Drug,12.51,SUP011,No,Room Temperature
+MED1297,Svr  Topialyse Mains  50Ml,Cream,Topical,Supply,37.71,SUP008,Yes,Refrigerated
+MED1298,Meditopic C-Topic Cream,Cream,Topical,Supply,14.45,SUP008,Yes,Room Temperature
+MED1299,Indometacin 25Mg,Capsule,Oral Solid,Drug,8.47,SUP008,No,Room Temperature
+MED1300,Atacand Plus 16/12.5Mg,Tablet,Oral Solid,Drug,16.15,SUP004,No,Cool & Dry
+MED1301,Rosva 20Mg,Tablet,Oral Solid,Drug,16.54,SUP002,Yes,Cool & Dry
+MED1302,Flu-Out  Sdi,Tablet,Oral Solid,Drug,13.9,SUP003,No,Cool & Dry
+MED1303,Vitamine C,Tablet,Oral Solid,Drug,16.84,SUP007,No,Cool & Dry
+MED1304,Nutriatfal Syrup 125Ml,Syrup,Oral Liquid,Drug,13.82,SUP009,Yes,Room Temperature
+MED1305,Gli Elementi Gentle Enzyme Peel,Gel,Topical,Supply,28.36,SUP011,No,Room Temperature
+MED1306,Delia Cosmetics Good Hand S.O.S Cream,Cream,Topical,Supply,22.48,SUP011,No,Cool & Dry
+MED1307,Cough Mixture Syrup  Winzor,Syrup,Oral Liquid,Drug,12.34,SUP009,No,Cool & Dry
+MED1308,Awasilvadin  1%,Cream,Topical,Drug,18.67,SUP014,No,Refrigerated
+MED1309,Vulga Xr 55Mg,Tablet,Oral Solid,Drug,8.19,SUP013,No,Refrigerated
+MED1310,Trisequens Flim Kapli Tablet,Tablet,Oral Solid,Drug,8.21,SUP002,No,Cool & Dry
+MED1311,Multi-Vitamin 20 Tab Effervescent,Tablet,Oral Solid,Drug,4.83,SUP003,Yes,Room Temperature
+MED1312,Meconazol-Oral Gel 40Gm,Gel,Topical,Drug,10.93,SUP011,No,Room Temperature
+MED1313,Methotrexate 2.5Mg,Tablet,Oral Solid,Drug,19.03,SUP003,No,Room Temperature
+MED1314,La Luxe Paris Professional Hair Care Micellar Hair Growth Hair Shampoo,Shampoo,Personal Care,Supply,15.62,SUP014,No,Room Temperature
+MED1315,Bn-Q10 30Tab,Tablet,Oral Solid,Drug,5.69,SUP009,Yes,Cool & Dry
+MED1316,Ben-Oxide Mild 2.5%,Gel,Topical,Drug,8.09,SUP003,Yes,Refrigerated
+MED1317,Binosto 70Mg 4 Tab,Tablet,Oral Solid,Drug,2.93,SUP014,No,Cool & Dry
+MED1318,Reutenox 20Mg,Tablet,Oral Solid,Drug,17.12,SUP013,No,Room Temperature
+MED1319,B-Cor 2.5,Tablet,Oral Solid,Drug,3.37,SUP002,Yes,Room Temperature
+MED1320,Betaserc 8Mg,Tablet,Oral Solid,Drug,15.76,SUP008,No,Refrigerated
+MED1321,Naproxan 500,Tablet,Oral Solid,Drug,16.95,SUP009,Yes,Refrigerated
+MED1322,Devit-3,Injection,Injectable,Drug,71.86,SUP002,Yes,Refrigerated
+MED1323,Babe Vitamin C+ 10*2Ml,Injection,Injectable,Drug,12.64,SUP010,No,Cool & Dry
+MED1324,Progest 100Mg,Capsule,Oral Solid,Drug,7.73,SUP003,No,Cool & Dry
+MED1325,Anivagene Lotion Hair Toinc Woman,Lotion,Topical,Supply,31.35,SUP004,No,Room Temperature
+MED1326,Capiloderm Anti-Hair Loss Shampoo 200Ml,Shampoo,Personal Care,Supply,5.67,SUP011,Yes,Room Temperature
+MED1327,Elegant Vitashine Max Skin Lightening Cream 0Ml,Cream,Topical,Drug,16.94,SUP013,Yes,Refrigerated
+MED1328,Svr  Xerial 10 Lait Corps  200Ml,Cream,Topical,Supply,9,SUP007,No,Cool & Dry
+MED1329,Irotec,Tablet,Oral Solid,Drug,16.88,SUP014,No,Refrigerated
+MED1330,Cefurex 500 10Tab,Tablet,Oral Solid,Drug,15.77,SUP011,Yes,Refrigerated
+MED1331,Mamacare Plus Omega 3 +Vitamins,Tablet,Oral Solid,Drug,16.47,SUP006,No,Room Temperature
+MED1332,Good Iodine 10% 100Ml Spray,Spray,Respiratory,Drug,13.3,SUP004,Yes,Cool & Dry
+MED1333,Photoblock Gel Spf 50,Gel,Topical,Supply,19.19,SUP014,No,Refrigerated
+MED1334,Ephedryl Tab Cold  20 Tab,Tablet,Oral Solid,Drug,9.1,SUP005,No,Room Temperature
+MED1335,Amoxicillin   500Mg,Tablet,Oral Solid,Drug,14.01,SUP007,Yes,Room Temperature
+MED1336,D3 Up 5000 Iu 60 Chewable Tablet,Tablet,Oral Solid,Drug,5.89,SUP001,No,Cool & Dry
+MED1337,Avene Physiolift Eye Contour 15Ml,Spray,Respiratory,Supply,22.21,SUP013,Yes,Room Temperature
+MED1338,Noreva Trio White Xp Spf 50 40Ml,Cream,Topical,Supply,13.54,SUP007,No,Room Temperature
+MED1339,Menvit Capsule 120 Cap,Capsule,Oral Solid,Drug,15.35,SUP001,No,Room Temperature
+MED1340,Ondansetron  8Mg 10Tab,Tablet,Oral Solid,Drug,9.81,SUP014,Yes,Cool & Dry
+MED1341,Cyclogest 400Mg ( 3Sheet ),Suppository,Suppository,Drug,12.54,SUP006,Yes,Refrigerated
+MED1342,Primolut Depot 250Mg 1Amp Bayar Asly,Injection,Injectable,Drug,31.66,SUP013,Yes,Refrigerated
+MED1343,Fusylin 15G,Cream,Topical,Supply,32.92,SUP007,No,Refrigerated
+MED1344,Sunsafe Spf 50 Anti-Ageing,Cream,Topical,Supply,20.35,SUP001,No,Room Temperature
+MED1345,Kordexa 8Mg,Tablet,Oral Solid,Drug,16.95,SUP004,No,Room Temperature
+MED1346,Prolyte Satchet 10,Sachet,Oral Solid,Drug,8.31,SUP011,No,Refrigerated
+MED1347,B-Plus 10 Vail Oral Solution,Solution,Oral Liquid,Drug,17.15,SUP012,No,Cool & Dry
+MED1348,Vitamin D3 Medz 5000Iu 60 Soft Galatine Capsule,Capsule,Oral Solid,Drug,19.71,SUP015,No,Room Temperature
+MED1349,Crestor 10Mg,Tablet,Oral Solid,Drug,10.04,SUP006,No,Cool & Dry
+MED1350,Foltene Anti - Dandruff Shampoo,Shampoo,Personal Care,Supply,9.89,SUP007,No,Room Temperature
+MED1351,Penamox 500,Capsule,Oral Solid,Drug,8.56,SUP008,No,Room Temperature
+MED1352,Ceftinex 300Mg,Tablet,Oral Solid,Drug,11.26,SUP010,Yes,Room Temperature
+MED1353,Nutragrow Syrup Nutralic 200Ml,Syrup,Oral Liquid,Drug,17.46,SUP014,Yes,Room Temperature
+MED1354,Junior Ghr Easy To Swallow 60 Tab,Tablet,Oral Solid,Drug,16.61,SUP014,Yes,Refrigerated
+MED1355,Vitamin D 2000Iu /30 Tab,Tablet,Oral Solid,Drug,16.32,SUP004,No,Room Temperature
+MED1356,Nunu Shampoo 500 Ml,Shampoo,Personal Care,Supply,5.88,SUP012,No,Refrigerated
+MED1357,Evening Primrose 500Mg,Tablet,Oral Solid,Drug,6.13,SUP015,Yes,Room Temperature

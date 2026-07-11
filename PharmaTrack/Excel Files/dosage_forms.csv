@@ -1,0 +1,31 @@
+DosageFormID,DosageForm,Category
+DF001,Ointment,Topical
+DF002,Capsule,Oral Solid
+DF003,Cream,Topical
+DF004,Syrup,Oral Liquid
+DF005,Spray,Respiratory
+DF006,Tablet,Oral Solid
+DF007,Shampoo,Personal Care
+DF008,Soap,Personal Care
+DF009,Nasal Spray,Nasal
+DF010,Toothpaste,Personal Care
+DF011,Solution,Oral Liquid
+DF012,Lotion,Topical
+DF013,Oil,Personal Care
+DF014,Gel,Topical
+DF015,Injection,Injectable
+DF016,Powder,Dermatology
+DF017,Serum,Topical
+DF018,Suppository,Suppository
+DF019,Milk Formula,Oral Liquid
+DF020,Lozenge,Oral Solid
+DF021,Sachet,Oral Solid
+DF022,Eye Ointment,Ophthalmic
+DF023,Drop,Oral Liquid
+DF024,Mouthwash,Personal Care
+DF025,Patch,Transdermal
+DF026,Suspension,Oral Liquid
+DF027,Ear Drop,Ear
+DF028,Eye Drop,Ophthalmic
+DF029,Inhaler,Respiratory
+DF030,Foam,Topical
